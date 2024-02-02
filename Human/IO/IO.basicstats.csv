@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,735899,IO
+n_RNA_mols,193310586,IO
+RNA_cts_per_cell,262.7,IO
+n_targets,928,IO
