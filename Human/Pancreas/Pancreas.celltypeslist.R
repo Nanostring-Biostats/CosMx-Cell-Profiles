@@ -21,8 +21,9 @@ celltypes = list(
             "NK cell", 
             "Dendritic cell",
             "T cell" = list(
-                "T cell CD4",
-                "T cell regulatory", 
+                "T cell CD4" = list(
+                  "T cell regulatory"
+                ), 
                 "T cell CD8"
             )
         )
