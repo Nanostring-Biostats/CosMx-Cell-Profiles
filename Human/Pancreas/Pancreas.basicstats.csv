@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,357215,Pancreas
+n_RNA_mols,169903524,Pancreas
+RNA_cts_per_cell,475.6,Pancreas
+n_targets,990,Pancreas
