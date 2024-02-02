@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,332873,Liver
+n_RNA_mols,184853719,Liver
+RNA_cts_per_cell,555.3,Liver
+n_targets,1000,Liver
