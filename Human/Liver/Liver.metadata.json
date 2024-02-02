@@ -1,0 +1,16 @@
+{
+    "profiles_name": "Liver",
+    "species": "Human",
+    "platform": "CosMx Spatial Molecular Imager",
+    "experiments": [
+        {
+            "experimentname": "Human Liver Public Share",
+            "platform_version": "Beta",
+            "condition": "healthy",
+            "sample_type": "FFPE",
+            "panel": "Human Universal Cell Characterization Panel (1000 plex)",
+            "collaborator": "NanoString internal",
+            "publication": "https://nanostring.com/products/cosmx-spatial-molecular-imager/human-liver-rna-ffpe-dataset/"
+        }
+    ]
+}

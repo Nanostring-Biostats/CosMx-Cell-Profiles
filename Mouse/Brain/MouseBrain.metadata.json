@@ -1,0 +1,35 @@
+{
+  "profiles_name": "Mouse Brain",
+  "species": "Mouse",
+  "platform": "CosMx Spatial Molecular Imager",
+  "experiments": [
+				{
+					"experimentname": "Coronal hippocampus and cortex",
+          "platform_version": "Beta",
+          "sample_type": "FFPE",
+          "tissue_type": "cornal hippocampus and cortex, coronal hemisphere",
+          "condition": "healthy",
+          "panel": "CosMx Mouse Neuroscience Panel, excluding 50-plex Add-on",
+          "collaborator": "NanoString internal",
+          "publication": "https://nanostring.com/products/cosmx-spatial-molecular-imager/cosmx-smi-mouse-brain-ffpe-dataset/"
+				},
+                {
+					"experimentname": "Sagittal",
+          "platform_version": "Beta",
+          "tissue_type": "sagittal brain sections",
+          "condition": "healthy",
+          "panel": "MmNeuron1Kv2",
+          "collaborator": "NanoString internal",
+          "publication": ""
+				},
+                {
+					"experimentname": "WNV infection mouse brain",
+          "platform_version": "Dash",
+          "condition": "West Nile Virus-infected",
+          "panel": "Mouse 6k (under development)",
+          "collaborator": "Dr. Michael Gale lab, University of Washington",
+          "publication": "",
+          "notes": "This experiment's contribution to the mouse brain profile is T cells only."
+				}
+			]
+}

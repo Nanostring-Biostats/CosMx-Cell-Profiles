@@ -1,0 +1,16 @@
+{
+    "profiles_name": "Pancreas",
+    "species": "Human",
+    "platform": "CosMx Spatial Molecular Imager",
+    "experiments": [
+        {
+            "experimentname": "SMI-0005_Kolar_diabetes",
+            "platform_version": "Dash",
+            "condition": "healthy",
+            "sample_type": "FFPE",
+            "panel": "980p + SMI-0005 + A1 + A2",
+            "collaborator": "Dr. Grant Kolar lab, Washington University School of Medicine",
+            "publication": "https://www.biorxiv.org/content/10.1101/2023.01.04.519955v1"
+        }
+    ]
+}

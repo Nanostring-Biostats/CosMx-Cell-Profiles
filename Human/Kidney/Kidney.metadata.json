@@ -1,0 +1,17 @@
+{
+  "profiles_name": "Kidney",
+  "species": "Human",
+  "platform": "CosMx Spatial Molecular Imager",
+  "experiments": [
+				{
+					"experimentname": "SMI-0056_Colvin_kidney",
+          "platform_version": "Dash",
+          "condition": "healthy transplant",
+          "sample_type": "FFPE",
+          "panel": "CosMxTM Human Universal Cell Characterization Panel (1000 plex)",
+          "collaborator": "Dr. Robert Colvin lab, Massachusetts General Hospital",
+          "publication": ""
+				}
+			]
+  
+}
