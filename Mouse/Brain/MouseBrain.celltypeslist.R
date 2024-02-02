@@ -30,7 +30,7 @@ celltypes = list(
                 "Astrocytes Bergmann glia"
             ),
             "Oligodendrocyte" = list(
-                "Commited oligodendrocytes",
+                "Committed oligodendrocytes",
                 "Myelin-forming oligodendrocytes",
                 "Mature oligodendrocytes",
                 "Newly-formed oligodendrocytes",
