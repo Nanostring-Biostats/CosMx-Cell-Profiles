@@ -25,6 +25,8 @@
                 {
 					"experimentname": "WNV infection mouse brain",
           "platform_version": "Dash",
+          "tissue_type": "sagittal whole brain",
+          "sample_type": "FFPE",
           "condition": "West Nile Virus-infected",
           "panel": "Mouse 6k (under development)",
           "collaborator": "Dr. Michael Gale lab, University of Washington",
