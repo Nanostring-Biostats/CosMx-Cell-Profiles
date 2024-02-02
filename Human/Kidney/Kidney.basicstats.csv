@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,280310,Kidney
+n_RNA_mols,50320529,Kidney
+RNA_cts_per_cell,179.5,Kidney
+n_targets,930,Kidney
