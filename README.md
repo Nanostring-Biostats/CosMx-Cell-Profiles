@@ -1,6 +1,6 @@
 # CosMx-Cell-Profiles
 
-![](./imgs/xy_cells.png)
+![](./imgs/bannercells.png)
 
 ## Overview
 
