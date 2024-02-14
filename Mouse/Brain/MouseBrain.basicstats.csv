@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,108800,MouseBrain
+n_RNA_mols,145876925,MouseBrain
+RNA_cts_per_cell,1340.8,MouseBrain
+n_targets,950,MouseBrain

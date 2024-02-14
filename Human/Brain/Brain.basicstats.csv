@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,181472,Brain
+n_RNA_mols,160951852,Brain
+RNA_cts_per_cell,886.9,Brain
+n_targets,6278,Brain

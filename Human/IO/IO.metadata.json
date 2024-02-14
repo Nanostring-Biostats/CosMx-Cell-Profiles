@@ -1,0 +1,43 @@
+{
+    "profiles_name": "IO",
+    "species": "Human",
+    "platform": "CosMx Spatial Molecular Imager",
+    "experiments": [
+        {
+            "experimentname": "SMI-0003-Ting_PDAC",
+            "platform_version": "Dash",
+            "organ": "pancreas",
+            "condition": "pancreatic ductal adenocarcinoma",
+            "panel": "980p+SMI03",
+            "collaborator": "Dr. David Ting lab, Massachusetts General Hospital",
+            "publication": ""
+        },
+        {
+            "experimentname": "SMI-0004_Thompson_breastcancer",
+            "platform_version": "Dash",
+            "organ": "breast",
+            "condition": "breast cancer",
+            "panel": "980plex",
+            "collaborator": "Dr. E. Aubrey Thompson lab, Mayo Clinic",
+            "publication": ""
+        },
+        {
+            "experimentname": "SMI-0017_Hwang_PDAC",
+            "platform_version": "Dash",
+            "organ": "pancreas",
+            "condition": "pancreatic ductal adenocarcinoma",
+            "panel": "990 probes (960 of type '0', 30 of type '2', doesn't include negative prbs)",
+            "collaborator": "Dr. William Hwang lab, Massachusetts General Hospital",
+            "publication": "https://aacrjournals.org/cancerres/article/83/7_Supplement/1165/719879"
+        },
+        {
+            "experimentname": "Anonymized",
+            "platform_version": "Dash",
+            "organ": "pancreas",
+            "condition": "pancreatic ductal adenocarcinoma",
+            "panel": "980p",
+            "collaborator": "anonymized",
+            "publication": "N/A"
+        }
+    ]
+}

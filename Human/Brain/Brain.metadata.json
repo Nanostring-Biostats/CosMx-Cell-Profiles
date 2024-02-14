@@ -1,0 +1,17 @@
+{
+  "profiles_name": "Brain",
+  "species": "Human",
+  "platform": "CosMx Spatial Molecular Imager",
+  "experiments": [
+    {
+					"experimentname": "Human Brain Public Share",
+          "platform_version": "Beta",
+          "tissue_type": "frontal cortex",
+          "sample_type": "FFPE",
+          "condition": "healthy",
+          "panel": "CosMxTM Human 6k Discovery Panel",
+          "collaborator": "NanoString internal",
+          "publication": "https://nanostring.com/products/cosmx-spatial-molecular-imager/human-frontal-cortex-ffpe-dataset/"
+				}
+  ]
+}
