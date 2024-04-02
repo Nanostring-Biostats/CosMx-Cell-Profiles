@@ -4,9 +4,9 @@
 
 ## Overview
 
-This repository contains a library of cell profile matrices with accompanying statistics and metadata. For each featured tissue, the profiles matrix gives the average expression of a variety of cell types relevant cell types. Each matrix in the library was derived from one or more CosMx Spatial Molecular Imager<sup>TM</sup> (SMI) experiments. The purposes of these profiles is to aid in CosMx SMI spatial cell typing using the InSituType R package ([pre-print](https://www.biorxiv.org/content/10.1101/2022.10.19.512902v1) and [GitHub repository](https://github.com/Nanostring-Biostats/InSituType)). We offer these cell profile matrices as an alternative to spatially-naive single-cell RNA-seq-based reference profiles for use in cell typing spatial biology experiments.
+This repository contains a library of cell profile matrices with accompanying statistics and metadata. For each featured tissue, the profiles matrix gives the average expression of a variety of relevant cell types. Each matrix in the library was derived from one or more CosMx<sup>TM</sup> Spatial Molecular Imager (SMI) experiments. The purposes of these profiles is to aid in CosMx SMI spatial cell typing using the InSituType R package ([pre-print](https://www.biorxiv.org/content/10.1101/2022.10.19.512902v1) and [GitHub repository](https://github.com/Nanostring-Biostats/InSituType)). We offer these cell profile matrices as an alternative to spatially-naive single-cell RNA-seq-based reference profiles for use in cell typing spatial biology experiments.
 
-One profile is presented for each available tissue. The majority are from healthy, adult human samples.
+One set of profiles is presented for each available tissue. The majority are from healthy, adult human samples.
 
 Each profile contains the following components:
 
@@ -33,7 +33,7 @@ CSV file of targets by cell types. Each cell type is a unique row. Each target i
 
 ### Cell Type Hierarchies
 
-R file defining a nested list object so users can group cell type categories. Human-readable ensures non-R users (e.g., Python) can parse and use.
+R file defining a nested list object so users can group cell type categories. Human-readable ensures non-R users (e.g., Python) can parse and use. Note that some inner nodes on the hierarchies are both lower-granularity categorizations as well as a final cell type included in the profiles themselves.
 
 ![](./imgs/cell_type_hierarchy.png)
 
@@ -49,13 +49,13 @@ CSV files of basic statistics on the profiles: number of input cells of each typ
 
 ### Target statistics
 
-CSV files of average and standard deviation of targets in profiles so that users can remove targets as desired.
+CSV files of average and standard deviation of targets in profiles so that users may remove targets as desired.
 
 ![](./imgs/cell_stdevs.png)
 
 ### Metadata
 
-JSON file on experimental design and attribution, including collaborators (if applicable), species, tissue type/substructure, CosMx instrument version, input panel, etc.
+JSON file on experimental design and attribution, including collaborators (if applicable), species, tissue type/substructure, CosMx instrument version, input panel, etc. Please cite the source of the data if using the CosMx cell profiles in your work.
 
 ![](./imgs/metadata.png)
 
@@ -71,7 +71,9 @@ Caution:
 
 * We do not recommend combining CosMx-derived cell type profiles with scRNA-seq derived profiles in cell typing. For example, in a cancerous sample, we advise against combining the CosMx IO profiles with scRNA-seq profiles for the tissue type.
 
-* All current profiles were derived from CosMx 1k data. They are not intended for use with WTx experiments.
+* All current profiles were derived from CosMx 1k or 6k data. They are not intended for use with WTx experiments.
+
+* Note that some inner nodes on the hierarchies are both lower-granularity categorizations as well as a final cell type included in the profiles themselves.
 
 ## Methodology
 
@@ -84,6 +86,6 @@ Please note the profiles, while derived from CosMx SMI experiments, may not cont
 
 ## See Also
 
-NanoString has compiled a resource of publicly-available scRNA-seq-derived cell profile matrices, [Cell Profile Library](https://github.com/Nanostring-Biostats/CellProfileLibrary), for use with the SpatialDecon [R package](https://bioconductor.org/packages/release/bioc/html/SpatialDecon.html) ([paper](https://www.nature.com/articles/s41467-022-28020-5)).
+NanoString has compiled a resource of publicly-available scRNA-seq-derived cell profile matrices, [Cell Profile Library](https://github.com/Nanostring-Biostats/CellProfileLibrary). This resource can be used in CosMx SMI cell typing (see note on InSituType in Overview) or with GeoMx<sup>&reg;</sup> Digital Spatial Profiler data using with the SpatialDecon [R package](https://bioconductor.org/packages/release/bioc/html/SpatialDecon.html) ([paper](https://www.nature.com/articles/s41467-022-28020-5)).
 
 Thank you for your interest in our cell profiles derived from CosMx SMI spatial biology datasets. If necessary, please file a GitHub Issue here or contact support@nanostring.com for more information.
