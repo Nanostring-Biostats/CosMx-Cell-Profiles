@@ -34,7 +34,7 @@ celltypes = list(
                 "Myelin-forming oligodendrocytes",
                 "Mature oligodendrocytes",
                 "Newly-formed oligodendrocytes",
-                "Oligodendrocytes precursor cells"
+                "Oligodendrocyte precursor cells"
             )
         ),
         "Neuron" = list(
