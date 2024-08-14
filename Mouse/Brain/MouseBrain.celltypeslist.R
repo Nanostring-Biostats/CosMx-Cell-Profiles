@@ -11,7 +11,8 @@ celltypes = list(
             "Choroid plexus epithelial cells",
             "Hypendymal",
             "Neuroblasts",
-            "Tanycytes"
+            "Tanycytes",
+            "Ependymal cells"
         ),
         "Vascular" = list(
             "Pericytes",
@@ -31,7 +32,7 @@ celltypes = list(
             ),
             "Oligodendrocyte" = list(
                 "Committed oligodendrocytes",
-                "Myelin-forming oligodendrocytes",
+                "Myelin forming oligodendrocytes",
                 "Mature oligodendrocytes",
                 "Newly-formed oligodendrocytes",
                 "Oligodendrocyte precursor cells"
@@ -63,10 +64,11 @@ celltypes = list(
                     "Hindbrain excitatory neurons"
                 )
             ),
-            "Peptidergic neruons" = list(
+            "Peptidergic neurons" = list(
                 "Cholinergic neurons habenula",
                 "Dopaminergic neurons",
-                "Serotonergic neurons"
+                "Serotonergic neurons",
+                "Peptidergic neurons"
             ),
             "Inhibitory neuron" = list(
                 "Hindbrain inhibitory neurons",
