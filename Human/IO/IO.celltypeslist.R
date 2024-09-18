@@ -15,7 +15,7 @@ celltypes = list(
             )
         ),
         "Myeloid" = list(
-            "Myoblast" = list(
+            "Myeloblast" = list(
                 "Neutrophil",
                 "Monocyte" = list(
                     "Macrophage"
