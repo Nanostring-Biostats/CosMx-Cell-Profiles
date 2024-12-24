@@ -9,7 +9,7 @@
             "condition": "healthy",
             "sample_type": "FFPE",
             "panel": "Human Universal Cell Characterization Panel (1000 plex)",
-            "collaborator": "NanoString internal",
+            "collaborator": "Bruker Spatial Biology internal",
             "publication": "https://nanostring.com/products/cosmx-spatial-molecular-imager/human-liver-rna-ffpe-dataset/"
         }
     ]

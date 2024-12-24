@@ -10,7 +10,7 @@
           "tissue_type": "cornal hippocampus and cortex, coronal hemisphere",
           "condition": "healthy",
           "panel": "CosMx Mouse Neuroscience Panel, excluding 50-plex Add-on",
-          "collaborator": "NanoString internal",
+          "collaborator": "Bruker Spatial Biology internal",
           "publication": "https://nanostring.com/products/cosmx-spatial-molecular-imager/cosmx-smi-mouse-brain-ffpe-dataset/"
 				},
                 {
@@ -19,7 +19,7 @@
           "tissue_type": "sagittal brain sections",
           "condition": "healthy",
           "panel": "MmNeuron1Kv2",
-          "collaborator": "NanoString internal",
+          "collaborator": "Bruker Spatial Biology internal",
           "publication": ""
 				},
                 {

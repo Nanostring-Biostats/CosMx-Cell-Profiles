@@ -10,7 +10,7 @@
           "sample_type": "FFPE",
           "condition": "healthy",
           "panel": "CosMxTM Human 6k Discovery Panel",
-          "collaborator": "NanoString internal",
+          "collaborator": "Bruker Spatial Biology internal",
           "publication": "https://nanostring.com/products/cosmx-spatial-molecular-imager/human-frontal-cortex-ffpe-dataset/"
 				}
   ]
