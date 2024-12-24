@@ -18,7 +18,7 @@ celltypes = list(
     "Immune" = list(
         "Lymphoid" = list(
             "B cell",
-            "NK like cells",
+            "NK-like cell",
             "T cell" = list(
                 "T cell CD3 alpha beta",
                 "T cell gamma delta"
