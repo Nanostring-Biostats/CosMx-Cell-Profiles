@@ -10,7 +10,7 @@ Each profile contains the following components:
 
 1. Cell profiles matrix
 
-2. Cell type hierarchies
+2. Cell type annotations
 
 3. Basic statistics
 
@@ -29,15 +29,18 @@ CSV file of targets by cell types. Each cell type is a unique row. Each target i
 ![](./imgs/cell_profiles.png)
 
 
-### Cell Type Hierarchies
+### Cell type annotations
 
-R file defining a nested list object so users can group cell type categories. Human-readable ensures non-R users (e.g., Python) can parse and use. Note that some inner nodes on the hierarchies are both lower-granularity categorizations as well as a final cell type included in the profiles themselves.
+To put cell types in context, we offer both cell type hierarchies and ontology terms.
+
+The hierarchies are in R files defining a nested list object so users can group cell type categories. Human-readable ensures non-R users (e.g., Python) can parse and use. Note that some inner nodes on the hierarchies are both lower-granularity categorizations as well as a final cell type included in the profiles themselves.
 
 ![](./imgs/cell_type_hierarchy.png)
 
-[Cell Ontology](https://obofoundry.org/ontology/cl.html) annotation is also provided.
 
-### Basic Statistics
+[Cell Ontology](https://obofoundry.org/ontology/cl.html) annotations are also provided.
+
+### Basic statistics
 
 CSV files of basic statistics on the profiles: number of input cells of each type per profile, standard deviation for each target, etc.
 
@@ -88,6 +91,6 @@ If you would like to contribute to the CosMx Cell Profiles repository with data 
 
 ## See Also
 
-Bruker Spatial Biology has compiled a resource of publicly-available scRNA-seq-derived cell profile matrices, [Cell Profile Library](https://github.com/Nanostring-Biostats/CellProfileLibrary). This resource can be used in CosMx SMI cell typing (see note on InSituType in Overview) or with GeoMx<sup>&reg;</sup> Digital Spatial Profiler data using with the SpatialDecon [R package](https://bioconductor.org/packages/release/bioc/html/SpatialDecon.html) ([paper](https://www.nature.com/articles/s41467-022-28020-5)).
+Bruker Spatial Biology has compiled a resource of publicly-available scRNA-seq-derived cell profile matrices, [Cell Profile Library](https://github.com/Nanostring-Biostats/CellProfileLibrary). This resource can be used in CosMx SMI cell typing (see note on InSituType in Overview) or with GeoMx<sup>&reg;</sup> Digital Spatial Profiler data using with the SpatialDecon [R package](https://bioconductor.org/packages/release/bioc/html/SpatialDecon.html) ([paper](https://www.nature.com/articles/s41467-022-28020-5)). For more information on how to analyze and explore CosMx SMI data, please visit out our [Scratch Space Blog](https://nanostring-biostats.github.io/CosMx-Analysis-Scratch-Space/).
 
 Thank you for your interest in our cell profiles derived from CosMx SMI spatial biology datasets. If necessary, please file a GitHub Issue here or contact support.spatial@bruker.com for more information.
