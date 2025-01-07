@@ -12,7 +12,6 @@ celltypes = list(
   "Immune" = list(
     "Lymphoid" = list(
       "NK cell",
-      "Plasmacytoid dendritic cell",
       "B cell" = list(
         "Plasmablast",
         "Plasma"
@@ -29,7 +28,10 @@ celltypes = list(
       "Monocyte" = list(
         "Macrophage"
       ),
-      "Dendritic cell"
+      "Dendritic" = list(
+        "Plasmacytoid dendritic cell",
+        "Conventional dendritic cell"
+      )
     )
   )
 )

@@ -31,7 +31,8 @@ celltypes = list(
       "Mast cell",
       "Monocyte" = list(
         "Macrophage"
-      )
+      ),
+      "Conventional dendritic cell"
     ),
     "Lymphoid" = list(
       "NK cell",
@@ -40,7 +41,6 @@ celltypes = list(
         "Plasmablast"
       ),
       "T cell",
-      "Dendritic cell"
     )
   )
 )

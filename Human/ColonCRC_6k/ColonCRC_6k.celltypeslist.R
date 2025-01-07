@@ -4,7 +4,6 @@ celltypes = list(
       "Malignancy epithelial A",
       "Malignancy epithelial B"
     ),
-    "Cancer-associated fibroblast",
     "Epithelial" = list(
       "Epithelial crypt",
       "Epithelial other",
@@ -29,23 +28,27 @@ celltypes = list(
   ),
   "Immune" = list(
     "Myeloid" = list(
-      "Macrophage",
       "Mast cell",
-      "Dendritic cell",
-      "Monocyte",
+      "Dendritic" = list(
+        "Conventional dendritic cell",
+        "Plasmacytoid dendritic cell",
+      ),
+      "Monocyte" = list(
+        "Macrophage"
+      ),
       "Neutrophil"
     ),
     "Lymphoid" = list(
-      "B lymphoid" = list(
-        "B cell",
-        "Plasmacytoid dendritic cell",
+      "B cell" = list(
         "Plasmablast",
         "Plasma"
       ),
-      "T lymphoid" = list(
-        "T cell CD4",
-        "T cell CD8",
-        "T cell regulatory"
+
+      "T cell" = list(
+        "T cell CD4" = list(
+          "T cell regulatory"
+        ),
+        "T cell CD8"
       ),
       "NK cell"
     )
