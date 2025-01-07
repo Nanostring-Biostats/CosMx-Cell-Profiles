@@ -11,7 +11,6 @@ celltypes = list(
     ),
     "Immune" = list(
         "Myeloid" = list(
-            "Plasmacytoid dendritic cell",
             "Mast cell",
             "Neutrophil",
             "Monocyte" = list("Macrophage")
@@ -19,7 +18,10 @@ celltypes = list(
         "Lymphoid" = list(
             "B cell" = list("Plasmablast"),
             "NK cell", 
-            "Dendritic cell",
+            "Dendritic" = list(
+              "Classical dendritic cell",
+              "Plasmacytoid dendritic cell"
+            ),
             "T cell" = list(
                 "T cell CD4" = list(
                   "T cell regulatory"

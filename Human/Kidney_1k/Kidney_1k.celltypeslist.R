@@ -3,7 +3,10 @@ celltypes = list(
         "Lymphoid" = list(
             "B cell",
             "NK cell",
-            "Dendritic cell",
+            "Dendritic" = list(
+              "Classical dendritic cell",
+              "Plasmacytoid dendritic cell"
+            ),
             "T cell" = list(
                 "NKT cell",
                 "T cell CD4",
@@ -12,7 +15,6 @@ celltypes = list(
             "Myeloid" = list(
                 "Mast cell",
                 "Neutrophil",
-                "Plasmacytoid dendritic cell",
                 "Monocyte lineage" = list(
                     "MNP-a/classical monocyte derived",
                     "MNP-b/non-classical monocyte derived",
