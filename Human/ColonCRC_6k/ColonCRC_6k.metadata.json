@@ -4,7 +4,7 @@
     "platform": "CosMx Spatial Molecular Imager",
     "experiments": [
         {
-            "experimentname": "Human Colon CRC Public Share",
+            "experimentname": "Colon CRC 6k",
             "platform_version": "Beta",
             "condition": "cancer",
             "sample_type": "FFPE",

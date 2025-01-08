@@ -29,7 +29,7 @@ celltypes = list(
   "Immune" = list(
     "Myeloid" = list(
       "Mast cell",
-      "Dendritic" = list(
+      "Dendritic cell" = list(
         "Conventional dendritic cell",
         "Plasmacytoid dendritic cell",
       ),
@@ -43,7 +43,6 @@ celltypes = list(
         "Plasmablast",
         "Plasma"
       ),
-
       "T cell" = list(
         "T cell CD4" = list(
           "T cell regulatory"

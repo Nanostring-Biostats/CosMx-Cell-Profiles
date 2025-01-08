@@ -4,7 +4,7 @@
     "platform": "CosMx Spatial Molecular Imager",
     "experiments": [
         {
-            "experimentname": "Human Lung Cancer Public Share",
+            "experimentname": "Lung Cancer 6k",
             "platform_version": "Beta",
             "condition": "cancer",
             "sample_type": "FFPE",

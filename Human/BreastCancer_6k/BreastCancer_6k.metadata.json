@@ -4,7 +4,7 @@
     "platform": "CosMx Spatial Molecular Imager",
     "experiments": [
         {
-            "experimentname": "Human Breast Cancer Public Share",
+            "experimentname": "Breast cancer 6k",
             "platform_version": "Beta",
             "condition": "cancer",
             "sample_type": "FFPE",
