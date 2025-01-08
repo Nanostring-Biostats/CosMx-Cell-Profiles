@@ -20,7 +20,7 @@ celltypes = list(
                     "Macrophage"
                 ),
                 "Mast cell",
-                "Dendritic" = list(
+                "Conventional dendritic" = list(
                   "Conventional dendritic cell",
                   "Plasmacytoid dendritic cell"
                 )

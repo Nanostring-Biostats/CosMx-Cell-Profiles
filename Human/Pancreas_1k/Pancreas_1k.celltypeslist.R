@@ -18,7 +18,7 @@ celltypes = list(
         "Lymphoid" = list(
             "B cell" = list("Plasmablast"),
             "NK cell", 
-            "Dendritic" = list(
+            "Conventional dendritic" = list(
               "Classical dendritic cell",
               "Plasmacytoid dendritic cell"
             ),

@@ -3,7 +3,7 @@ celltypes = list(
         "Lymphoid" = list(
             "B cell",
             "NK cell",
-            "Dendritic" = list(
+            "Conventional dendritic" = list(
               "Classical dendritic cell",
               "Plasmacytoid dendritic cell"
             ),
