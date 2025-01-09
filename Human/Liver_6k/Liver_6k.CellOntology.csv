@@ -1,0 +1,26 @@
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term
+Liver_6k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage
+Liver_6k,Central venous LSEC,CL:0019022,endothelial cell of pericentral hepatic sinusoid,CL:1000398,endothelial cell of hepatic sinusoid
+Liver_6k,Cholangiocyte,CL:1000488,cholangiocyte,CL:0000069,branched duct epithelial cell
+Liver_6k,Endothelial cells,CL:0000115,endothelial cell,NA,NA
+Liver_6k,Erythroid,CL:0000764,erythroid lineage cell,CL:0000763,myeloid cell
+Liver_6k,Hepatocyte,CL:0000182,hepatocyte,CL:0000066,epithelial cell
+Liver_6k,Hepatocyte A,NA,NA,CL:0000182,hepatocyte
+Liver_6k,Hepatocyte B,NA,NA,CL:0000182,hepatocyte
+Liver_6k,Hepatocyte C,NA,NA,CL:0000182,hepatocyte
+Liver_6k,Hepatocyte D,NA,NA,CL:0000182,hepatocyte
+Liver_6k,Hepatocyte E,NA,NA,CL:0000182,hepatocyte
+Liver_6k,Immune,CL:0000738,leukocyte,NA,NA
+Liver_6k,Inflammatory macrophage,CL:0000863,inflammatory macrophage,CL:0000861,elicited macrophage
+Liver_6k,Liver,NA,NA,NA,NA
+Liver_6k,Lymphoid,CL:0000542,lymphocyte,CL:0000842,mononuclear cell
+Liver_6k,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte
+Liver_6k,Myeloid,CL:0000766,myeloid leukocyte,CL:0000738,leukocyte
+Liver_6k,NK-like cell,NA,NA,NA,NA
+Liver_6k,Non-inflammatory macrophage,NA,NA,CL:0000235,macrophage
+Liver_6k,Periportal LSEC,CL:0019021,endothelial cell of periportal hepatic sinusoid,CL:1000398,endothelial cell of hepatic sinusoid
+Liver_6k,Portal endothelial cells,CL:1000398,endothelial cell of hepatic sinusoid,CL:0002262,endothelial cell of sinusoid
+Liver_6k,Stellate cell,CL:0000632,hepatic stellate cell,CL:0000057,fibroblast
+Liver_6k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte
+Liver_6k,T cell CD3 alpha beta,CL:0000789,alpha-beta T cell,NA,NA
+Liver_6k,T cell gamma delta,CL:0000798,gamma-delta T cell,NA,NA
