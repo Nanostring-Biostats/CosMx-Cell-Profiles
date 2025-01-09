@@ -13,13 +13,17 @@ celltypes = list(
         "Myeloid" = list(
             "Mast cell",
             "Neutrophil",
-            "Monocyte" = list("Macrophage")
+            "Monocyte" = list(
+              "Macrophage"
+              )
         ),
         "Lymphoid" = list(
-            "B cell" = list("Plasmablast"),
+            "B cell" = list(
+              "Plasmablast"
+              ),
             "NK cell", 
-            "Conventional dendritic" = list(
-              "Classical dendritic cell",
+            "Dendritic cell" = list(
+              "Conventional dendritic cell",
               "Plasmacytoid dendritic cell"
             ),
             "T cell" = list(

@@ -29,5 +29,7 @@ celltypes = list(
             "Inflammatory macrophage"
         )
     ),
-    "Other" = list("Erythroid")
+    "Other" = list(
+      "Erythroid"
+    )
 )
