@@ -40,7 +40,7 @@ celltypes = list(
         "Plasma",
         "Plasmablast"
       ),
-      "T cell",
+      "T cell"
     )
   )
 )
