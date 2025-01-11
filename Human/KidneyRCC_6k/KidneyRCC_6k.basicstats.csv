@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,81910,KidneyRCC_6k
+n_RNA_mols,51504569,KidneyRCC_6k
+RNA_cts_per_cell,628.8,KidneyRCC_6k
+n_targets,5742,KidneyRCC_6k

@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,103458,BreastCancer_6k
+n_RNA_mols,113270048,BreastCancer_6k
+RNA_cts_per_cell,1094.8,BreastCancer_6k
+n_targets,5742,BreastCancer_6k

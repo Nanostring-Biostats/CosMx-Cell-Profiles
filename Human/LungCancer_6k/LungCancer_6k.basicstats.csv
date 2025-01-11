@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,130123,LungCancer_6k
+n_RNA_mols,81025085,LungCancer_6k
+RNA_cts_per_cell,622.7,LungCancer_6k
+n_targets,5742,LungCancer_6k

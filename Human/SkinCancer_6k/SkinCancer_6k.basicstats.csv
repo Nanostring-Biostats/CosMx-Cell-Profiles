@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,101220,SkinCancer_6k
+n_RNA_mols,111311328,SkinCancer_6k
+RNA_cts_per_cell,1099.7,SkinCancer_6k
+n_targets,5742,SkinCancer_6k

@@ -1,0 +1,19 @@
+num_cells,cell_type
+186,B cell
+41,Conventional dendritic cell
+3520,Endothelial
+17334,Fibroblast
+2925,Keratinocyte
+18066,Macrophage
+19900,Malignancy A
+35006,Malignancy B
+254,Mast cell
+31,Monocyte
+1195,Neutrophil
+529,NK cell
+868,Plasma
+127,Plasmablast
+111,Plasmacytoid dendritic cell
+59,T cell CD4
+634,T cell CD8
+434,T cell regulatory
