@@ -17,7 +17,7 @@ BreastCancer_6k,Plasma,CL:0000786,plasma cell,CL:0000946,antibody secreting cell
 BreastCancer_6k,Plasmablast,CL:0000980,plasmablast,CL:0000946,antibody secreting cell
 BreastCancer_6k,Plasmacytoid dendritic cell,CL:0000784,plasmacytoid dendritic cell,CL:0000451,dendritic cell
 BreastCancer_6k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte
-BreastCancer_6k,T cell CD4,CL:0000624,CD4-positive, alpha-beta T cell,CL:0000791,mature alpha-beta T cell
-BreastCancer_6k,T cell CD8,CL:0000625,CD8-positive, alpha-beta T cell,CL:0000791,mature alpha-beta T cell
+BreastCancer_6k,T cell CD4,CL:0000624,CD4-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell
+BreastCancer_6k,T cell CD8,CL:0000625,CD8-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell
 BreastCancer_6k,T cell regulatory,CL:0000815,regulatory T cell,CL:0002419,mature T cell
 BreastCancer_6k,Conventional dendritic cell,CL:0000990,conventional dendritic cell,CL:0000451,dendritic cell
