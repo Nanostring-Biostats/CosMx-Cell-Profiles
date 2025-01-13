@@ -19,8 +19,8 @@ Pancreas_1k,Pancreatic ductal cell,CL:0002079,pancreatic ductal cell,CL:1001433,
 Pancreas_1k,Plasmablast,CL:0000980,plasmablast,CL:0000946,antibody secreting cell
 Pancreas_1k,Plasmacytoid dendritic cell,CL:0000784,plasmacytoid dendritic cell,CL:0000451,dendritic cell
 Pancreas_1k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte
-Pancreas_1k,T cell CD4,CL:0000624,CD4-positive, alpha-beta T cell,CL:0000791,mature alpha-beta T cell
-Pancreas_1k,T cell CD8,CL:0000625,CD8-positive, alpha-beta T cell,CL:0000791,mature alpha-beta T cell
+Pancreas_1k,T cell CD4,CL:0000624,CD4-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell
+Pancreas_1k,T cell CD8,CL:0000625,CD8-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell
 Pancreas_1k,T cell regulatory,CL:0000815,regulatory T cell,CL:0002419,mature T cell
 Pancreas_1k,Tissue,NA,NA,NA,NA
 Pancreas_1k,Type B pancreatic cell,CL:0000169,type B pancreatic cell,CL:0008024,pancreatic endocrine cell
