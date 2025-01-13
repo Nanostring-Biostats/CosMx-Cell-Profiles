@@ -38,7 +38,7 @@ Kidney_1k,Proximal tubule,NA,NA,CL:0002306,epithelial cell of proximal tubule
 Kidney_1k,Smooth muscle,NA,NA,CL:1000891,kidney arterial blood vessel cell
 Kidney_1k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte
 Kidney_1k,T cell CD4,CL:0000624,CD4-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell
-Kidney_1k,T cell CD8,CL:0000625,CD8-positive,alpha-beta T cell,CL:0000791,mature alpha-beta T cell
+Kidney_1k,T cell CD8,CL:0000625,CD8-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell
 Kidney_1k,Thick ascending limb of Loop of Henle,CL:1001106,kidney loop of Henle thick ascending limb epithelial cell,CL:1001016,kidney loop of Henle ascending limb epithelial cell
 Kidney_1k,Tissue,NA,NA,NA,NA
 Kidney_1k,Transitional urothelium,NA,NA,CL:0000731,urothelial cell
