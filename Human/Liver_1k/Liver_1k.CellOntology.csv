@@ -1,26 +1,26 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term
-Liver_1k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA
-Liver_1k,Central venous LSEC,CL:0019022,endothelial cell of pericentral hepatic sinusoid,CL:1000398,endothelial cell of hepatic sinusoid,NA,NA
-Liver_1k,Cholangiocyte,CL:1000488,cholangiocyte,CL:0000069,branched duct epithelial cell,NA,NA
-Liver_1k,Endothelial cells,CL:0000115,endothelial cell,NA,NA,NA,NA
-Liver_1k,Erythroid,CL:0000764,erythroid lineage cell,CL:0000763,myeloid cell,NA,NA
-Liver_1k,Hepatocyte,CL:0000182,hepatocyte,CL:0000066,epithelial cell,NA,NA
-Liver_1k,Hepatocyte A,NA,NA,CL:0000182,hepatocyte,NA,NA
-Liver_1k,Hepatocyte B,NA,NA,CL:0000182,hepatocyte,NA,NA
-Liver_1k,Hepatocyte C,NA,NA,CL:0000182,hepatocyte,NA,NA
-Liver_1k,Hepatocyte D,NA,NA,CL:0000182,hepatocyte,NA,NA
-Liver_1k,Hepatocyte E,NA,NA,CL:0000182,hepatocyte,NA,NA
-Liver_1k,Immune,CL:0000738,leukocyte,NA,NA,NA,NA
-Liver_1k,Inflammatory macrophage,CL:0000863,inflammatory macrophage,CL:0000861,elicited macrophage,NA,NA
-Liver_1k,Lymphoid,CL:0000542,lymphocyte,CL:0000842,mononuclear cell,NA,NA
-Liver_1k,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte,NA,NA
-Liver_1k,NK-like cell,NA,NA,NA,NA,NA,NA
-Liver_1k,Non-inflammatory macrophage,NA,NA,CL:0000235,macrophage,NA,NA
-Liver_1k,Other,NA,NA,NA,NA,NA,NA
-Liver_1k,Periportal LSEC,CL:0019021,endothelial cell of periportal hepatic sinusoid,CL:1000398,endothelial cell of hepatic sinusoid,NA,NA
-Liver_1k,Portal endothelial cells,CL:1000398,endothelial cell of hepatic sinusoid,CL:0002262,endothelial cell of sinusoid,NA,NA
-Liver_1k,Stellate cell,CL:0000632,hepatic stellate cell,CL:0000057,fibroblast,NA,NA
-Liver_1k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte,NA,NA
-Liver_1k,T cell CD3 alpha beta,CL:0000789,alpha-beta T cell,NA,NA,NA,NA
-Liver_1k,T cell gamma delta,CL:0000798,gamma-delta T cell,NA,NA,NA,NA
-Liver_1k,Tissue,NA,NA,NA,NA,NA,NA
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,profile
+Liver_1k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA,1
+Liver_1k,Central venous LSEC,CL:0019022,endothelial cell of pericentral hepatic sinusoid,CL:1000398,endothelial cell of hepatic sinusoid,NA,NA,1
+Liver_1k,Cholangiocyte,CL:1000488,cholangiocyte,CL:0000069,branched duct epithelial cell,NA,NA,1
+Liver_1k,Endothelial cells,CL:0000115,endothelial cell,NA,NA,NA,NA,0
+Liver_1k,Erythroid,CL:0000764,erythroid lineage cell,CL:0000763,myeloid cell,NA,NA,1
+Liver_1k,Hepatocyte,CL:0000182,hepatocyte,CL:0000066,epithelial cell,NA,NA,0
+Liver_1k,Hepatocyte A,NA,NA,CL:0000182,hepatocyte,NA,NA,1
+Liver_1k,Hepatocyte B,NA,NA,CL:0000182,hepatocyte,NA,NA,1
+Liver_1k,Hepatocyte C,NA,NA,CL:0000182,hepatocyte,NA,NA,1
+Liver_1k,Hepatocyte D,NA,NA,CL:0000182,hepatocyte,NA,NA,1
+Liver_1k,Hepatocyte E,NA,NA,CL:0000182,hepatocyte,NA,NA,1
+Liver_1k,Immune,CL:0000738,leukocyte,NA,NA,NA,NA,0
+Liver_1k,Inflammatory macrophage,CL:0000863,inflammatory macrophage,CL:0000861,elicited macrophage,NA,NA,1
+Liver_1k,Lymphoid,CL:0000542,lymphocyte,CL:0000842,mononuclear cell,NA,NA,0
+Liver_1k,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte,NA,NA,0
+Liver_1k,NK-like cell,NA,NA,NA,NA,NA,NA,1
+Liver_1k,Non-inflammatory macrophage,NA,NA,CL:0000235,macrophage,NA,NA,1
+Liver_1k,Other,NA,NA,NA,NA,NA,NA,0
+Liver_1k,Periportal LSEC,CL:0019021,endothelial cell of periportal hepatic sinusoid,CL:1000398,endothelial cell of hepatic sinusoid,NA,NA,1
+Liver_1k,Portal endothelial cells,CL:1000398,endothelial cell of hepatic sinusoid,CL:0002262,endothelial cell of sinusoid,NA,NA,1
+Liver_1k,Stellate cell,CL:0000632,hepatic stellate cell,CL:0000057,fibroblast,NA,NA,1
+Liver_1k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte,NA,NA,0
+Liver_1k,T cell CD3 alpha beta,CL:0000789,alpha-beta T cell,NA,NA,NA,NA,1
+Liver_1k,T cell gamma delta,CL:0000798,gamma-delta T cell,NA,NA,NA,NA,1
+Liver_1k,Tissue,NA,NA,NA,NA,NA,NA,0

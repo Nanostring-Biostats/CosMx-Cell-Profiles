@@ -1,18 +1,18 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term
-Pancreas_WTx,Acinar,CL:0002064,pancreatic acinar cell,CL:1001599,pancreas exocrine glandular cell,NA,NA
-Pancreas_WTx,Acinar A,NA,NA,CL:0002064,pancreatic acinar cell,NA,NA
-Pancreas_WTx,Acinar B,NA,NA,CL:0002064,pancreatic acinar cell,NA,NA
-Pancreas_WTx,Active stellate,NA,NA,CL:0002410,pancreatic stellate cell,NA,NA
-Pancreas_WTx,Alpha cells,CL:0000171,pancreatic A cell,CL:0008024,pancreatic endocrine cell,NA,NA
-Pancreas_WTx,Beta cells,CL:0000169,type B pancreatic cell,CL:0008024,pancreatic endocrine cell,NA,NA
-Pancreas_WTx,Delta cells,CL:0000173,pancreatic D cell,CL:0008024,pancreatic endocrine cell,NA,NA
-Pancreas_WTx,Ductal,CL:0002079,pancreatic ductal cell,CL:1001433,epithelial cell of exocrine pancreas,NA,NA
-Pancreas_WTx,Endocrine,CL:0008024,pancreatic endocrine cell,CL:0000164,enteroendocrine cell,NA,NA
-Pancreas_WTx,Epsilon cells,CL:0005019,pancreatic epsilon cell,CL:0008024,pancreatic endocrine cell,NA,NA
-Pancreas_WTx,Exocrine,CL:1001599,pancreas exocrine glandular cell,NA,NA,NA,NA
-Pancreas_WTx,Gamma cells,CL:0002275,pancreatic PP cell,CL:0008024,pancreatic endocrine cell,NA,NA
-Pancreas_WTx,Immune,CL:0000738,leukocyte,NA,NA,NA,NA
-Pancreas_WTx,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte,NA,NA
-Pancreas_WTx,Pancreas,NA,NA,NA,NA,NA,NA
-Pancreas_WTx,Quiescent stellate,NA,NA,CL:0002410,pancreatic stellate cell,NA,NA
-Pancreas_WTx,Stellate,CL:0002410,pancreatic stellate cell,CL:0000057,fibroblast,NA,NA
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,profile
+Pancreas_WTx,Acinar,CL:0002064,pancreatic acinar cell,CL:1001599,pancreas exocrine glandular cell,NA,NA,0
+Pancreas_WTx,Acinar A,NA,NA,CL:0002064,pancreatic acinar cell,NA,NA,1
+Pancreas_WTx,Acinar B,NA,NA,CL:0002064,pancreatic acinar cell,NA,NA,1
+Pancreas_WTx,Active stellate,NA,NA,CL:0002410,pancreatic stellate cell,NA,NA,1
+Pancreas_WTx,Alpha cells,CL:0000171,pancreatic A cell,CL:0008024,pancreatic endocrine cell,NA,NA,1
+Pancreas_WTx,Beta cells,CL:0000169,type B pancreatic cell,CL:0008024,pancreatic endocrine cell,NA,NA,1
+Pancreas_WTx,Delta cells,CL:0000173,pancreatic D cell,CL:0008024,pancreatic endocrine cell,NA,NA,1
+Pancreas_WTx,Ductal,CL:0002079,pancreatic ductal cell,CL:1001433,epithelial cell of exocrine pancreas,NA,NA,1
+Pancreas_WTx,Endocrine,CL:0008024,pancreatic endocrine cell,CL:0000164,enteroendocrine cell,NA,NA,0
+Pancreas_WTx,Epsilon cells,CL:0005019,pancreatic epsilon cell,CL:0008024,pancreatic endocrine cell,NA,NA,1
+Pancreas_WTx,Exocrine,CL:1001599,pancreas exocrine glandular cell,NA,NA,NA,NA,0
+Pancreas_WTx,Gamma cells,CL:0002275,pancreatic PP cell,CL:0008024,pancreatic endocrine cell,NA,NA,1
+Pancreas_WTx,Immune,CL:0000738,leukocyte,NA,NA,NA,NA,0
+Pancreas_WTx,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte,NA,NA,1
+Pancreas_WTx,Pancreas,NA,NA,NA,NA,NA,NA,0
+Pancreas_WTx,Quiescent stellate,NA,NA,CL:0002410,pancreatic stellate cell,NA,NA,1
+Pancreas_WTx,Stellate,CL:0002410,pancreatic stellate cell,CL:0000057,fibroblast,NA,NA,0
