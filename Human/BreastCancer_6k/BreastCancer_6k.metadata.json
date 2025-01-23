@@ -1,0 +1,15 @@
+{
+    "profiles_name": "BreastCancer_6k",
+    "species": "Human",
+    "platform": "CosMx Spatial Molecular Imager",
+    "experiments": [
+        {
+            "experimentname": "Breast cancer 6k",
+            "platform_version": "Beta",
+            "condition": "cancer",
+            "sample_type": "FFPE",
+            "panel": "Pre-commercial Human 6K Discovery Panel",
+            "collaborator": "Bruker Spatial Biology internal"
+        }
+    ]
+}

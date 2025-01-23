@@ -1,0 +1,20 @@
+num_cells,cell_type
+5169,B cell
+1116,Conventional dendritic cell
+383,Endothelial A
+12132,Endothelial B
+10942,Epithelial
+13247,Fibroblast
+13064,Lung cell
+2187,Macrophage
+10432,Malignancy
+145,Monocyte
+25403,Myeloid
+1610,Neutrophil
+5758,NK cell
+15967,Plasma
+1435,Plasmablast
+636,Plasmacytoid dendritic cell
+4202,T cell CD4
+4631,T cell CD8
+1664,T cell regulatory

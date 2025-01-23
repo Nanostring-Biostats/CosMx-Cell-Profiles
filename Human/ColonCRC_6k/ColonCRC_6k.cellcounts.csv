@@ -1,0 +1,29 @@
+num_cells,cell_type
+1405,B cell
+31200,Conventional dendritic cell
+5252,Endothelial A
+11040,Endothelial B
+20685,Epithelial crypt
+1017,Epithelial other
+9698,Epithelial villi
+24036,Glial
+29187,Macrophage
+67639,Malignancy epithelial A
+25074,Malignancy epithelial B
+11915,Mast cell
+4352,Monocyte
+9508,Neutrophil
+687,NK cell
+19417,Pericyte
+20133,Plasma
+5958,Plasmablast
+354,Plasmacytoid dendritic cell
+24470,Smooth muscle
+711,Stroma A
+3632,Stroma B.1
+4851,Stroma B.2
+7852,Stroma C
+6614,Stroma D
+144,T cell CD4
+3732,T cell CD8
+22829,T cell regulatory

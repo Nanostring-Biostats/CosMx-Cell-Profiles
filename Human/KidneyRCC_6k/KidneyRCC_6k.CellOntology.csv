@@ -1,0 +1,34 @@
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,in_profiles
+KidneyRCC_6k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA,1
+KidneyRCC_6k,Conventional dendritic cell,CL:0000990,conventional dendritic cell,CL:0000451,dendritic cell,NA,NA,0
+KidneyRCC_6k,Endothelial,CL:0000115,endothelial cell,NA,NA,NA,NA,1
+KidneyRCC_6k,Epithelial,CL:0002518,kidney epithelial cell,CL:0000066,epithelial cell,NA,NA,0
+KidneyRCC_6k,Fibroblast,CL:0000057,fibroblast,CL:0002320,connective tissue cell,NA,NA,1
+KidneyRCC_6k,Glomerular endothelium,CL:0002188,glomerular endothelial cell,CL:0000115,endothelial cell,NA,NA,1
+KidneyRCC_6k,Immune,CL:0000738,leukocyte,NA,NA,NA,NA,0
+KidneyRCC_6k,Kidney,NA,NA,NA,NA,NA,NA,0
+KidneyRCC_6k,Lymphoid,CL:0000542,lymphocyte,CL:0000842,mononuclear cell,NA,NA,0
+KidneyRCC_6k,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte,NA,NA,1
+KidneyRCC_6k,Malignancy,NA,NA,NA,NA,CL:0001064,malignant cell,0
+KidneyRCC_6k,Malignancy A,NA,NA,NA,NA,CL:0001064,malignant cell,1
+KidneyRCC_6k,Malignancy B,NA,NA,NA,NA,CL:0001064,malignant cell,1
+KidneyRCC_6k,Mast cell,CL:0000097,mast cell,CL:0000766,myeloid leukocyte,NA,NA,1
+KidneyRCC_6k,Mesangial cell,CL:0000650,mesangial cell,CL:0000669,pericyte,NA,NA,1
+KidneyRCC_6k,Monocyte,CL:0000576,monocyte,CL:0000766,myeloid leukocyte,NA,NA,1
+KidneyRCC_6k,Myeloid,CL:0000766,myeloid leukocyte,CL:0000738,leukocyte,NA,NA,0
+KidneyRCC_6k,Myofibroblast,CL:0000186,myofibroblast cell,CL:0002320,connective tissue cell,NA,NA,0
+KidneyRCC_6k,Myofibroblast A,NA,NA,CL:0000186,myofibroblast cell,NA,NA,1
+KidneyRCC_6k,Myofibroblast B,NA,NA,CL:0000186,myofibroblast cell,NA,NA,1
+KidneyRCC_6k,Neutrophil,CL:0000775,neutrophil,CL:0000094,granulocyte,NA,NA,1
+KidneyRCC_6k,NK cell,CL:0000623,natural killer cell,CL:0001067,group 1 innate lymphoid cell,NA,NA,1
+KidneyRCC_6k,Pelvic epithelium,NA,NA,CL:0000066,epithelial cell,NA,NA,1
+KidneyRCC_6k,Plasma,CL:0000786,plasma cell,CL:0000946,antibody secreting cell,NA,NA,1
+KidneyRCC_6k,Plasmablast,CL:0000980,plasmablast,CL:0000946,antibody secreting cell,NA,NA,1
+KidneyRCC_6k,Podocyte,CL:0000653,podocyte,CL:1000450,epithelial cell of glomerular capsule,NA,NA,1
+KidneyRCC_6k,Principal cell,CL:0005009,renal principal cell,CL:0002518,kidney epithelial cell,NA,NA,1
+KidneyRCC_6k,Proximal tubule,NA,NA,CL:0002306,epithelial cell of proximal tubule,NA,NA,0
+KidneyRCC_6k,Smooth muscle,NA,NA,CL:1000891,kidney arterial blood vessel cell,NA,NA,1
+KidneyRCC_6k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte,NA,NA,1
+KidneyRCC_6k,Transitional urothelium,NA,NA,CL:0000731,urothelial cell,NA,NA,1
+KidneyRCC_6k,Tubule,NA,NA,NA,NA,CL:0002518,kidney epithelial cell,1
+KidneyRCC_6k,Type A intercalated cell,NA,NA,CL:0005010,renal intercalated cell,NA,NA,1

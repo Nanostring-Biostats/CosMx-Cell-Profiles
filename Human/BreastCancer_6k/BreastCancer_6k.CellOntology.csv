@@ -1,0 +1,23 @@
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,in_profiles
+BreastCancer_6k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA,1
+BreastCancer_6k,Breast,NA,NA,NA,NA,NA,NA,0
+BreastCancer_6k,Dendritic cell,CL:0000451,dendritic cell,CL:0000145,professional antigen presenting cell,NA,NA,0
+BreastCancer_6k,Endothelial,CL:0000115,endothelial cell,NA,NA,NA,NA,1
+BreastCancer_6k,Fibroblast,CL:4006000,fibroblast of breast,CL:0000057,fibroblast,NA,NA,1
+BreastCancer_6k,Immune,CL:0000738,leukocyte,NA,NA,NA,NA,0
+BreastCancer_6k,Lymphoid,CL:0000542,lymphocyte,CL:0000842,mononuclear cell,NA,NA,0
+BreastCancer_6k,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte,NA,NA,1
+BreastCancer_6k,Malignancy,NA,NA,NA,NA,CL:0001064,malignant cell,1
+BreastCancer_6k,Monocyte,CL:0000576,monocyte,CL:0000766,myeloid leukocyte,NA,NA,1
+BreastCancer_6k,Myeloid,CL:0000766,myeloid leukocyte,CL:0000738,leukocyte,NA,NA,0
+BreastCancer_6k,Neutrophil,CL:0000775,neutrophil,CL:0000094,granulocyte,NA,NA,1
+BreastCancer_6k,NK cell,CL:0000623,natural killer cell,CL:0001067,group 1 innate lymphoid cell,NA,NA,1
+BreastCancer_6k,Pericyte,CL:0000669,pericyte,CL:0002320,connective tissue cell,NA,NA,1
+BreastCancer_6k,Plasma,CL:0000786,plasma cell,CL:0000946,antibody secreting cell,NA,NA,1
+BreastCancer_6k,Plasmablast,CL:0000980,plasmablast,CL:0000946,antibody secreting cell,NA,NA,1
+BreastCancer_6k,Plasmacytoid dendritic cell,CL:0000784,plasmacytoid dendritic cell,CL:0000451,dendritic cell,NA,NA,1
+BreastCancer_6k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte,NA,NA,0
+BreastCancer_6k,T cell CD4,CL:0000624,CD4-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell,NA,NA,1
+BreastCancer_6k,T cell CD8,CL:0000625,CD8-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell,NA,NA,1
+BreastCancer_6k,T cell regulatory,CL:0000815,regulatory T cell,CL:0002419,mature T cell,NA,NA,1
+BreastCancer_6k,Conventional dendritic cell,CL:0000990,conventional dendritic cell,CL:0000451,dendritic cell,NA,NA,1

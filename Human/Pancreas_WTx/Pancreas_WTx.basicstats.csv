@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,47270,Pancreas_WTx
+n_RNA_mols,50832801,Pancreas_WTx
+RNA_cts_per_cell,1075.4,Pancreas_WTx
+n_targets,17691,Pancreas_WTx

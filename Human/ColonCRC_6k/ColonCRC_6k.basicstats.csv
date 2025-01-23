@@ -1,0 +1,5 @@
+metric,value,tissue
+n_cells,373392,ColonCRC_6k
+n_RNA_mols,230218828,ColonCRC_6k
+RNA_cts_per_cell,616.6,ColonCRC_6k
+n_targets,5742,ColonCRC_6k

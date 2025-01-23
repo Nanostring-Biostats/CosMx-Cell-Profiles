@@ -24,7 +24,7 @@ Each profile contains the following components:
 
 ### Cell profiles matrix
 
-CSV file of targets by cell types. Each cell type is a unique row. Each target is a unique column. Where multiple experiments were combined, only the intersection of targets was used.
+CSV file of targets by cell types. Each cell type is a unique row. Each target is a unique column. Where multiple experiments were combined, only the intersection of targets was used. The profiles were generated using `InSituType::Estep()`, which removes background readout (negative probes) when calculating the net expression profile for each cell type. For details, refer to the [InSituType manual](https://github.com/Nanostring-Biostats/InSituType).
 
 ![](./imgs/cell_profiles.png)
 
@@ -38,7 +38,7 @@ The hierarchies are in R files defining a nested list object so users can group 
 ![](./imgs/cell_type_hierarchy.png)
 
 
-[Cell Ontology](https://obofoundry.org/ontology/cl.html) annotations are also provided.
+[Cell Ontology](https://obofoundry.org/ontology/cl.html) annotations are also provided for all nodes on the hierarchies. Where applicable, the identified match and/or parent (more general) matches are provided. For other cell types, where no node or parent node matches are found, we instead provide the closest term. Finally, the column `in_profiles` indicates whether the table row corresponds to a cell type present in the profiles (independent of whether it is an internal or terminal node within the hierarchies).
 
 ### Basic statistics
 
@@ -52,7 +52,7 @@ CSV files of basic statistics on the profiles: number of input cells of each typ
 
 ### Target statistics
 
-CSV files of average and standard deviation of targets in profiles so that users may remove targets as desired.
+CSV files of average and standard deviation of targets in profiles so that users may remove targets as desired. Unlike the cell profiles, the average values by cell type and target here are simple means that do not use the negative probe values.
 
 ![](./imgs/cell_stdevs.png)
 
