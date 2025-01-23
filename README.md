@@ -38,7 +38,7 @@ The hierarchies are in R files defining a nested list object so users can group 
 ![](./imgs/cell_type_hierarchy.png)
 
 
-[Cell Ontology](https://obofoundry.org/ontology/cl.html) annotations are also provided.
+[Cell Ontology](https://obofoundry.org/ontology/cl.html) annotations are also provided. Where applicable, the identified match and/or parent (more general) matches are provided. For other cell types, where no node or parent node matches are found, we instead provide the closest term.
 
 ### Basic statistics
 
