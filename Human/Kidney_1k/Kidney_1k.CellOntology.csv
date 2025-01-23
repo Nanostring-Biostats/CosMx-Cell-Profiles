@@ -1,4 +1,4 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,profile
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,in_profiles
 Kidney_1k,Ascending vasa recta endothelium,CL:1001131,vasa recta ascending limb cell,CL:1001036,vasa recta cell,NA,NA,1
 Kidney_1k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA,1
 Kidney_1k,Connecting tubule,CL:1000768,kidney connecting tubule epithelial cell,NA,NA,NA,NA,1

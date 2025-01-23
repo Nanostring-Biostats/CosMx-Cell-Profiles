@@ -1,4 +1,4 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,profile
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,in_profiles
 Pancreas_WTx,Acinar,CL:0002064,pancreatic acinar cell,CL:1001599,pancreas exocrine glandular cell,NA,NA,0
 Pancreas_WTx,Acinar A,NA,NA,CL:0002064,pancreatic acinar cell,NA,NA,1
 Pancreas_WTx,Acinar B,NA,NA,CL:0002064,pancreatic acinar cell,NA,NA,1

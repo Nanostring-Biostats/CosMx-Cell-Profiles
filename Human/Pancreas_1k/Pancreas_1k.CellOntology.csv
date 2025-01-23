@@ -1,4 +1,4 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,profile
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,in_profiles
 Pancreas_1k,Acinar,CL:0002064,pancreatic acinar cell,CL:1001599,pancreas exocrine glandular cell,NA,NA,1
 Pancreas_1k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA,1
 Pancreas_1k,Dendritic cell,CL:0000451,dendritic cell,CL:0000145,professional antigen presenting cell,NA,NA,0

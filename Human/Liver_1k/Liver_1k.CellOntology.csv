@@ -1,4 +1,4 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,profile
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,in_profiles
 Liver_1k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA,1
 Liver_1k,Central venous LSEC,CL:0019022,endothelial cell of pericentral hepatic sinusoid,CL:1000398,endothelial cell of hepatic sinusoid,NA,NA,1
 Liver_1k,Cholangiocyte,CL:1000488,cholangiocyte,CL:0000069,branched duct epithelial cell,NA,NA,1

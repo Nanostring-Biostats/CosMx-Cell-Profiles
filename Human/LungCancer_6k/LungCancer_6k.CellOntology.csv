@@ -1,4 +1,4 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,profile
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,in_profiles
 LungCancer_6k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA,1
 LungCancer_6k,Dendritic cell,CL:0000451,dendritic cell,CL:0000145,professional antigen presenting cell,NA,NA,0
 LungCancer_6k,Endothelial,CL:0000115,endothelial cell,NA,NA,NA,NA,0

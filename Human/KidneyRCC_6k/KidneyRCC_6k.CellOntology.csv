@@ -1,4 +1,4 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,profile
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term,in_profiles
 KidneyRCC_6k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA,1
 KidneyRCC_6k,Conventional dendritic cell,CL:0000990,conventional dendritic cell,CL:0000451,dendritic cell,NA,NA,0
 KidneyRCC_6k,Endothelial,CL:0000115,endothelial cell,NA,NA,NA,NA,1
