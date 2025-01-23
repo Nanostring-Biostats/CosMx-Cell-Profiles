@@ -1,23 +1,23 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term
-IO_1k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage
-IO_1k,Dendritic cell,CL:0000451,dendritic cell,CL:0000145,professional antigen presenting cell
-IO_1k,Endothelial,CL:0000115,endothelial cell,NA,NA
-IO_1k,Fibroblast,CL:0000057,fibroblast,CL:0002320,connective tissue cell
-IO_1k,Immune,CL:0000738,leukocyte,NA,NA
-IO_1k,Lymphoid,CL:0000542,lymphocyte,CL:0000842,mononuclear cell
-IO_1k,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte
-IO_1k,Mast cell,CL:0000097,mast cell,CL:0000766,myeloid leukocyte
-IO_1k,Monocyte,CL:0000576,monocyte,CL:0000766,myeloid leukocyte
-IO_1k,Myeloblast,CL:0000835,myeloblast,CL:0000766,myeloid leukocyte
-IO_1k,Myeloid,CL:0000766,myeloid leukocyte,CL:0000738,leukocyte
-IO_1k,Neutrophil,CL:0000775,neutrophil,CL:0000094,granulocyte
-IO_1k,NK cell,CL:0000623,natural killer cell,CL:0001067,group 1 innate lymphoid cell
-IO_1k,Other,NA,NA,NA,NA
-IO_1k,Plasma,CL:0000786,plasma cell,CL:0000946,antibody secreting cell
-IO_1k,Plasmablast,CL:0000980,plasmablast,CL:0000946,antibody secreting cell
-IO_1k,Plasmacytoid dendritic cell,CL:0000784,plasmacytoid dendritic cell,CL:0000451,dendritic cell
-IO_1k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte
-IO_1k,T cell CD4,CL:0000624,CD4-positive, alpha-beta T cell,CL:0000791,mature alpha-beta T cell
-IO_1k,T cell CD8,CL:0000625,CD8-positive, alpha-beta T cell,CL:0000791,mature alpha-beta T cell
-IO_1k,T cell regulatory,CL:0000815,regulatory T cell,CL:0002419,mature T cell
-IO_1k,Conventional dendritic cell,CL:0000990,conventional dendritic cell,CL:0000451,dendritic cell
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term
+IO_1k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA
+IO_1k,Dendritic cell,CL:0000451,dendritic cell,CL:0000145,professional antigen presenting cell,NA,NA
+IO_1k,Endothelial,CL:0000115,endothelial cell,NA,NA,NA,NA
+IO_1k,Fibroblast,CL:0000057,fibroblast,CL:0002320,connective tissue cell,NA,NA
+IO_1k,Immune,CL:0000738,leukocyte,NA,NA,NA,NA
+IO_1k,Lymphoid,CL:0000542,lymphocyte,CL:0000842,mononuclear cell,NA,NA
+IO_1k,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte,NA,NA
+IO_1k,Mast cell,CL:0000097,mast cell,CL:0000766,myeloid leukocyte,NA,NA
+IO_1k,Monocyte,CL:0000576,monocyte,CL:0000766,myeloid leukocyte,NA,NA
+IO_1k,Myeloblast,CL:0000835,myeloblast,CL:0000766,myeloid leukocyte,NA,NA
+IO_1k,Myeloid,CL:0000766,myeloid leukocyte,CL:0000738,leukocyte,NA,NA
+IO_1k,Neutrophil,CL:0000775,neutrophil,CL:0000094,granulocyte,NA,NA
+IO_1k,NK cell,CL:0000623,natural killer cell,CL:0001067,group 1 innate lymphoid cell,NA,NA
+IO_1k,Other,NA,NA,NA,NA,NA,NA
+IO_1k,Plasma,CL:0000786,plasma cell,CL:0000946,antibody secreting cell,NA,NA
+IO_1k,Plasmablast,CL:0000980,plasmablast,CL:0000946,antibody secreting cell,NA,NA
+IO_1k,Plasmacytoid dendritic cell,CL:0000784,plasmacytoid dendritic cell,CL:0000451,dendritic cell,NA,NA
+IO_1k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte,NA,NA
+IO_1k,T cell CD4,CL:0000624,CD4-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell,NA,NA
+IO_1k,T cell CD8,CL:0000625,CD8-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell,NA,NA
+IO_1k,T cell regulatory,CL:0000815,regulatory T cell,CL:0002419,mature T cell,NA,NA
+IO_1k,Conventional dendritic cell,CL:0000990,conventional dendritic cell,CL:0000451,dendritic cell,NA,NA

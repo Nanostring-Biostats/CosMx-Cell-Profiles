@@ -1,27 +1,27 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term
-Pancreas_1k,Acinar,CL:0002064,pancreatic acinar cell,CL:1001599,pancreas exocrine glandular cell
-Pancreas_1k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage
-Pancreas_1k,Dendritic cell,CL:0000451,dendritic cell,CL:0000145,professional antigen presenting cell
-Pancreas_1k,Endothelial,CL:0000115,endothelial cell,NA,NA
-Pancreas_1k,Fibroblast,CL:0000057,fibroblast,CL:0002320,connective tissue cell
-Pancreas_1k,Immune,CL:0000738,leukocyte,NA,NA
-Pancreas_1k,Lymphoid,CL:0000542,lymphocyte,CL:0000842,mononuclear cell
-Pancreas_1k,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte
-Pancreas_1k,Mast cell,CL:0000097,mast cell,CL:0000766,myeloid leukocyte
-Pancreas_1k,Mesenchymal cell,CL:0008019,mesenchymal cell,NA,NA
-Pancreas_1k,Monocyte,CL:0000576,monocyte,CL:0000766,myeloid leukocyte
-Pancreas_1k,Myeloid,CL:0000766,myeloid leukocyte,CL:0000738,leukocyte
-Pancreas_1k,Neutrophil,CL:0000775,neutrophil,CL:0000094,granulocyte
-Pancreas_1k,NK cell,CL:0000623,natural killer cell,CL:0001067,group 1 innate lymphoid cell
-Pancreas_1k,Pancreatic A cell,CL:0000171,pancreatic A cell,CL:0008024,pancreatic endocrine cell
-Pancreas_1k,Pancreatic D cell,CL:0000173,pancreatic D cell,CL:0008024,pancreatic endocrine cell
-Pancreas_1k,Pancreatic ductal cell,CL:0002079,pancreatic ductal cell,CL:1001433,epithelial cell of exocrine pancreas
-Pancreas_1k,Plasmablast,CL:0000980,plasmablast,CL:0000946,antibody secreting cell
-Pancreas_1k,Plasmacytoid dendritic cell,CL:0000784,plasmacytoid dendritic cell,CL:0000451,dendritic cell
-Pancreas_1k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte
-Pancreas_1k,T cell CD4,CL:0000624,CD4-positive, alpha-beta T cell,CL:0000791,mature alpha-beta T cell
-Pancreas_1k,T cell CD8,CL:0000625,CD8-positive, alpha-beta T cell,CL:0000791,mature alpha-beta T cell
-Pancreas_1k,T cell regulatory,CL:0000815,regulatory T cell,CL:0002419,mature T cell
-Pancreas_1k,Tissue,NA,NA,NA,NA
-Pancreas_1k,Type B pancreatic cell,CL:0000169,type B pancreatic cell,CL:0008024,pancreatic endocrine cell
-Pancreas_1k,Conventional dendritic cell,CL:0000990,conventional dendritic cell,CL:0000451,dendritic cell
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term
+Pancreas_1k,Acinar,CL:0002064,pancreatic acinar cell,CL:1001599,pancreas exocrine glandular cell,NA,NA
+Pancreas_1k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA
+Pancreas_1k,Dendritic cell,CL:0000451,dendritic cell,CL:0000145,professional antigen presenting cell,NA,NA
+Pancreas_1k,Endothelial,CL:0000115,endothelial cell,NA,NA,NA,NA
+Pancreas_1k,Fibroblast,CL:0000057,fibroblast,CL:0002320,connective tissue cell,NA,NA
+Pancreas_1k,Immune,CL:0000738,leukocyte,NA,NA,NA,NA
+Pancreas_1k,Lymphoid,CL:0000542,lymphocyte,CL:0000842,mononuclear cell,NA,NA
+Pancreas_1k,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte,NA,NA
+Pancreas_1k,Mast cell,CL:0000097,mast cell,CL:0000766,myeloid leukocyte,NA,NA
+Pancreas_1k,Mesenchymal cell,CL:0008019,mesenchymal cell,NA,NA,NA,NA
+Pancreas_1k,Monocyte,CL:0000576,monocyte,CL:0000766,myeloid leukocyte,NA,NA
+Pancreas_1k,Myeloid,CL:0000766,myeloid leukocyte,CL:0000738,leukocyte,NA,NA
+Pancreas_1k,Neutrophil,CL:0000775,neutrophil,CL:0000094,granulocyte,NA,NA
+Pancreas_1k,NK cell,CL:0000623,natural killer cell,CL:0001067,group 1 innate lymphoid cell,NA,NA
+Pancreas_1k,Pancreatic A cell,CL:0000171,pancreatic A cell,CL:0008024,pancreatic endocrine cell,NA,NA
+Pancreas_1k,Pancreatic D cell,CL:0000173,pancreatic D cell,CL:0008024,pancreatic endocrine cell,NA,NA
+Pancreas_1k,Pancreatic ductal cell,CL:0002079,pancreatic ductal cell,CL:1001433,epithelial cell of exocrine pancreas,NA,NA
+Pancreas_1k,Plasmablast,CL:0000980,plasmablast,CL:0000946,antibody secreting cell,NA,NA
+Pancreas_1k,Plasmacytoid dendritic cell,CL:0000784,plasmacytoid dendritic cell,CL:0000451,dendritic cell,NA,NA
+Pancreas_1k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte,NA,NA
+Pancreas_1k,T cell CD4,CL:0000624,CD4-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell,NA,NA
+Pancreas_1k,T cell CD8,CL:0000625,CD8-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell,NA,NA
+Pancreas_1k,T cell regulatory,CL:0000815,regulatory T cell,CL:0002419,mature T cell,NA,NA
+Pancreas_1k,Tissue,NA,NA,NA,NA,NA,NA
+Pancreas_1k,Type B pancreatic cell,CL:0000169,type B pancreatic cell,CL:0008024,pancreatic endocrine cell,NA,NA
+Pancreas_1k,Conventional dendritic cell,CL:0000990,conventional dendritic cell,CL:0000451,dendritic cell,NA,NA

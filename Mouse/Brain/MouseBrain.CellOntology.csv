@@ -1,71 +1,71 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term
-MouseBrain,Astrocytes,CL:0000127,astrocyte,NA,NA
-MouseBrain,Astrocytes Bergmann glia,CL:0000644,Bergmann glial cell,CL:0000127,astrocyte
-MouseBrain,Astrocytes cortex hippocampus,CL:0002605,astrocyte of the cerebral cortex,CL:0000127,astrocyte
-MouseBrain,Astrocytes thalamus hypothalamus,CL:0012000,astrocyte of the forebrain,CL:0000127,astrocyte
-MouseBrain,Cajal-Retzius cells,CL:0000695,Cajal-Retzius cell,CL:2000029,central nervous system neuron
-MouseBrain,CCK interneurons,NA,NA,NA,NA
-MouseBrain,Cholinergic neurons habenula,NA,NA,CL:0000108,cholinergic neuron
-MouseBrain,Choroid plexus epithelial cells,CL:0000706,choroid plexus epithelial cell,CL:0000065,ependymal cell
-MouseBrain,Committed oligodendrocytes,CL:4023059,differentiation-committed oligodendrocyte precursor,NA,NA
-MouseBrain,Cortical excitatory neuron,NA,NA,CL:0010012,cerebral cortex neuron
-MouseBrain,D1 medium spiny neurons,CL:4030043,matrix D1 medium spiny neuron,CL:4023026,direct pathway medium spiny neuron
-MouseBrain,D2 medium spiny neurons,CL:4030047,matrix D2 medium spiny neuron,CL:4023029,indirect pathway medium spiny neuron
-MouseBrain,Dopaminergic neurons,CL:0000700,dopaminergic neuron,CL:4033050,catecholaminergic neuron
-MouseBrain,Ependymal cells,CL:0000065,ependymal cell,CL:0000067,ciliated epithelial cell
-MouseBrain,Excitatory neuron,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Excitatory neurons amygdala,CL:4023039,amygdala excitatory neuron,CL:2000029,central nervous system neuron
-MouseBrain,Excitatory neurons di/mesencephalon,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Excitatory neurons hippocampal CA1,NA,NA,CL:4023060,hippocampal CA1-3 neuron
-MouseBrain,Excitatory neurons hippocampal CA2,NA,NA,CL:4023060,hippocampal CA1-3 neuron
-MouseBrain,Excitatory neurons hippocampal CA3,NA,NA,CL:4023060,hippocampal CA1-3 neuron
-MouseBrain,Excitatory neurons layer 1 piriform,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Excitatory neurons layer 2/3,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Excitatory neurons layer 4,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Excitatory neurons layer 5,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Excitatory neurons layer 5/6,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Excitatory neurons layer 6,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Excitatory neurons telencephalon,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Glia,CL:0000125,glial cell,CL:0000095,neuron associated cell
-MouseBrain,Granule neurons,CL:0000120,granule cell,CL:0000117,CNS neuron (sensu Vertebrata)
-MouseBrain,Hindbrain excitatory neurons,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Hindbrain inhibitory neurons,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Hippocampal excitatory neuron,NA,NA,CL:0002608,hippocampal neuron
-MouseBrain,Hypendymal,CL:4023181,hypendymal cell,CL:0002319,neural cell
-MouseBrain,Immune,CL:0000738,leukocyte,NA,NA
-MouseBrain,Inhibitory interneurons,CL:0000498,inhibitory interneuron,CL:0000099,interneuron
-MouseBrain,Inhibitory neuron,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Inhibitory neurons amygdala,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Inhibitory neurons habenula hypothalamus,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Inhibitory neurons habenula thalamus,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Inhibitory neurons reticular nucleus,NA,NA,CL:2000029,central nervous system neuron
-MouseBrain,Interneuron selective interneurons,NA,NA,CL:0000099,interneuron
-MouseBrain,Interneurons,CL:0000099,interneuron,CL:0000540,neuron
-MouseBrain,Mature oligodendrocytes,CL:0000128,oligodendrocyte,CL:4023154,myelinating glial cell
-MouseBrain,Microglia,CL:0000129,microglial cell,CL:0000125,glial cell
-MouseBrain,Myelin-forming oligodendrocytes,NA,NA,CL:0000128,oligodendrocyte
-MouseBrain,Myeloid,CL:0000766,myeloid leukocyte,CL:0000738,leukocyte
-MouseBrain,Neuroblasts,CL:0000031,neuroblast (sensu Vertebrata),CL:0000055,non-terminally differentiated cell
-MouseBrain,Neurogliaform cells,CL:0000693,neurogliaform cell,CL:0000099,interneuron
-MouseBrain,Neuron,CL:0000540,neuron,CL:0002319,neural cell
-MouseBrain,Newly-formed oligodendrocytes,NA,NA,CL:0000128,oligodendrocyte
-MouseBrain,Non-telencephalon excitatory neuron,NA,NA,CL:0000117,CNS neuron (sensu Vertebrata)
-MouseBrain,Olfactory bulb inhibitory neurons,NA,NA,CL:0000117,CNS neuron (sensu Vertebrata)
-MouseBrain,Olfactory ensheathing cells,CL:0011028,olfactory ensheathing cell,CL:0000125,glial cell
-MouseBrain,Oligodendrocyte,CL:0000128,oligodendrocyte,CL:4023154,myelinating glial cell
-MouseBrain,Oligodendrocytes precursor cells,CL:0002453,oligodendrocyte precursor cell,CL:0011026,progenitor cell
-MouseBrain,Peptidergic neruons,CL:0000110,peptidergic neuron,CL:0000540,neuron
-MouseBrain,Pericytes,CL:2000043,brain pericyte,CL:0002575,central nervous system pericyte
-MouseBrain,Perivascular macrophages,CL:0000881,perivascular macrophage,CL:4042003,border associated macrophage
-MouseBrain,Purkinje cells,CL:0000121,Purkinje cell,CL:0000117,CNS neuron (sensu Vertebrata)
-MouseBrain,Radial glia,CL:0000681,radial glial cell,CL:0000125,glial cell
-MouseBrain,Serotonergic neurons,CL:0000850,serotonergic neuron,CL:0000540,neuron
-MouseBrain,T cell,CL:0000084,T cell,CL:0000542,lymphocyte
-MouseBrain,Tanycytes,CL:0002085,tanycyte,CL:0000683,ependymoglial cell
-MouseBrain,Telencephalon excitatory neruon,NA,NA,CL:0000117,CNS neuron (sensu Vertebrata)
-MouseBrain,Telencephalon inhibitory neurons,NA,NA,CL:0000117,CNS neuron (sensu Vertebrata)
-MouseBrain,Tissue,NA,NA,NA,NA
-MouseBrain,Vascular,CL:4023072,brain vascular cell,CL:0002319,neural cell
-MouseBrain,Vascular endothelial cells,NA,NA,NA,NA
-MouseBrain,Vascular leptomeningeal cells,NA,NA,CL:0000708,leptomeningeal cell
-MouseBrain,Vascular smooth muscle cells,CL:0000359,vascular associated smooth muscle cell,CL:4033054,perivascular cell
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term
+MouseBrain,Astrocytes,CL:0000127,astrocyte,NA,NA,NA,NA
+MouseBrain,Astrocytes Bergmann glia,CL:0000644,Bergmann glial cell,CL:0000127,astrocyte,NA,NA
+MouseBrain,Astrocytes cortex hippocampus,CL:0002605,astrocyte of the cerebral cortex,CL:0000127,astrocyte,NA,NA
+MouseBrain,Astrocytes thalamus hypothalamus,CL:0012000,astrocyte of the forebrain,CL:0000127,astrocyte,NA,NA
+MouseBrain,Cajal-Retzius cells,CL:0000695,Cajal-Retzius cell,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,CCK interneurons,NA,NA,CL:0000099,interneuron,NA,NA
+MouseBrain,Cholinergic neurons habenula,NA,NA,CL:0000108,cholinergic neuron,NA,NA
+MouseBrain,Choroid plexus epithelial cells,CL:0000706,choroid plexus epithelial cell,CL:0000065,ependymal cell,NA,NA
+MouseBrain,Committed oligodendrocytes,CL:4023059,differentiation-committed oligodendrocyte precursor,NA,NA,NA,NA
+MouseBrain,Cortical excitatory neuron,NA,NA,CL:0010012,cerebral cortex neuron,NA,NA
+MouseBrain,D1 medium spiny neurons,CL:4030043,matrix D1 medium spiny neuron,CL:4023026,direct pathway medium spiny neuron,NA,NA
+MouseBrain,D2 medium spiny neurons,CL:4030047,matrix D2 medium spiny neuron,CL:4023029,indirect pathway medium spiny neuron,NA,NA
+MouseBrain,Dopaminergic neurons,CL:0000700,dopaminergic neuron,CL:4033050,catecholaminergic neuron,NA,NA
+MouseBrain,Ependymal cells,CL:0000065,ependymal cell,CL:0000067,ciliated epithelial cell,NA,NA
+MouseBrain,Excitatory neuron,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Excitatory neurons amygdala,CL:4023039,amygdala excitatory neuron,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Excitatory neurons di/mesencephalon,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Excitatory neurons hippocampal CA1,NA,NA,CL:4023060,hippocampal CA1-3 neuron,NA,NA
+MouseBrain,Excitatory neurons hippocampal CA2,NA,NA,CL:4023060,hippocampal CA1-3 neuron,NA,NA
+MouseBrain,Excitatory neurons hippocampal CA3,NA,NA,CL:4023060,hippocampal CA1-3 neuron,NA,NA
+MouseBrain,Excitatory neurons layer 1 piriform,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Excitatory neurons layer 2/3,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Excitatory neurons layer 4,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Excitatory neurons layer 5,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Excitatory neurons layer 5/6,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Excitatory neurons layer 6,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Excitatory neurons telencephalon,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Glia,CL:0000125,glial cell,CL:0000095,neuron associated cell,NA,NA
+MouseBrain,Granule neurons,CL:0000120,granule cell,CL:0000117,CNS neuron (sensu Vertebrata),NA,NA
+MouseBrain,Hindbrain excitatory neurons,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Hindbrain inhibitory neurons,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Hippocampal excitatory neuron,NA,NA,CL:0002608,hippocampal neuron,NA,NA
+MouseBrain,Hypendymal,CL:4023181,hypendymal cell,CL:0002319,neural cell,NA,NA
+MouseBrain,Immune,CL:0000738,leukocyte,NA,NA,NA,NA
+MouseBrain,Inhibitory interneurons,CL:0000498,inhibitory interneuron,CL:0000099,interneuron,NA,NA
+MouseBrain,Inhibitory neuron,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Inhibitory neurons amygdala,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Inhibitory neurons habenula hypothalamus,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Inhibitory neurons habenula thalamus,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Inhibitory neurons reticular nucleus,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+MouseBrain,Interneuron selective interneurons,NA,NA,CL:0000099,interneuron,NA,NA
+MouseBrain,Interneurons,CL:0000099,interneuron,CL:0000540,neuron,NA,NA
+MouseBrain,Mature oligodendrocytes,CL:0000128,oligodendrocyte,CL:4023154,myelinating glial cell,NA,NA
+MouseBrain,Microglia,CL:0000129,microglial cell,CL:0000125,glial cell,NA,NA
+MouseBrain,Myelin-forming oligodendrocytes,NA,NA,CL:0000128,oligodendrocyte,NA,NA
+MouseBrain,Myeloid,CL:0000766,myeloid leukocyte,CL:0000738,leukocyte,NA,NA
+MouseBrain,Neuroblasts,CL:0000031,neuroblast (sensu Vertebrata),CL:0000055,non-terminally differentiated cell,NA,NA
+MouseBrain,Neurogliaform cells,CL:0000693,neurogliaform cell,CL:0000099,interneuron,NA,NA
+MouseBrain,Neuron,CL:0000540,neuron,CL:0002319,neural cell,NA,NA
+MouseBrain,Newly-formed oligodendrocytes,NA,NA,CL:0000128,oligodendrocyte,NA,NA
+MouseBrain,Non-telencephalon excitatory neuron,NA,NA,CL:0000117,CNS neuron (sensu Vertebrata),NA,NA
+MouseBrain,Olfactory bulb inhibitory neurons,NA,NA,CL:0000117,CNS neuron (sensu Vertebrata),NA,NA
+MouseBrain,Olfactory ensheathing cells,CL:0011028,olfactory ensheathing cell,CL:0000125,glial cell,NA,NA
+MouseBrain,Oligodendrocyte,CL:0000128,oligodendrocyte,CL:4023154,myelinating glial cell,NA,NA
+MouseBrain,Oligodendrocytes precursor cells,CL:0002453,oligodendrocyte precursor cell,CL:0011026,progenitor cell,NA,NA
+MouseBrain,Peptidergic neruons,CL:0000110,peptidergic neuron,CL:0000540,neuron,NA,NA
+MouseBrain,Pericytes,CL:2000043,brain pericyte,CL:0002575,central nervous system pericyte,NA,NA
+MouseBrain,Perivascular macrophages,CL:0000881,perivascular macrophage,CL:4042003,border associated macrophage,NA,NA
+MouseBrain,Purkinje cells,CL:0000121,Purkinje cell,CL:0000117,CNS neuron (sensu Vertebrata),NA,NA
+MouseBrain,Radial glia,CL:0000681,radial glial cell,CL:0000125,glial cell,NA,NA
+MouseBrain,Serotonergic neurons,CL:0000850,serotonergic neuron,CL:0000540,neuron,NA,NA
+MouseBrain,T cell,CL:0000084,T cell,CL:0000542,lymphocyte,NA,NA
+MouseBrain,Tanycytes,CL:0002085,tanycyte,CL:0000683,ependymoglial cell,NA,NA
+MouseBrain,Telencephalon excitatory neruon,NA,NA,CL:0000117,CNS neuron (sensu Vertebrata),NA,NA
+MouseBrain,Telencephalon inhibitory neurons,NA,NA,CL:0000117,CNS neuron (sensu Vertebrata),NA,NA
+MouseBrain,Tissue,NA,NA,NA,NA,NA,NA
+MouseBrain,Vascular,CL:4023072,brain vascular cell,CL:0002319,neural cell,NA,NA
+MouseBrain,Vascular endothelial cells,NA,NA,CL:0000115,endothelial cell,NA,NA
+MouseBrain,Vascular leptomeningeal cells,NA,NA,CL:0000708,leptomeningeal cell,NA,NA
+MouseBrain,Vascular smooth muscle cells,CL:0000359,vascular associated smooth muscle cell,CL:4033054,perivascular cell,NA,NA

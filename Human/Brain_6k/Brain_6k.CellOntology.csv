@@ -1,22 +1,22 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term
-Brain_6k,Astrocyte,CL:0000127,astrocyte,NA,NA
-Brain_6k,Astrocyte A,NA,NA,CL:0000127,astrocyte
-Brain_6k,Astrocyte B,NA,NA,CL:0000127,astrocyte
-Brain_6k,Endothelial,CL:2000044,brain microvascular endothelial cell,NA,NA
-Brain_6k,Excitatory neuron,NA,NA,CL:2000029,central nervous system neuron
-Brain_6k,Glial,CL:0000125,glial cell,NA,NA
-Brain_6k,Inhibitory neuron,NA,NA,CL:2000029,central nervous system neuron
-Brain_6k,Inhibitory neuron A,NA,NA,CL:2000029,central nervous system neuron
-Brain_6k,Inhibitory neuron B,NA,NA,CL:2000029,central nervous system neuron
-Brain_6k,Inhibitory neuron C,NA,NA,CL:2000029,central nervous system neuron
-Brain_6k,L2/3 neuron,NA,NA,NA,NA
-Brain_6k,L4 neuron,NA,NA,NA,NA
-Brain_6k,L6 neuron,NA,NA,NA,NA
-Brain_6k,Microglia,CL:0000129,microglial cell,CL:0000125,glial cell
-Brain_6k,Microglia A,NA,NA,CL:0000129,microglial cell
-Brain_6k,Microglia B,NA,NA,CL:0000129,microglial cell
-Brain_6k,Neuronal,CL:2000029,central nervous system neuron,NA,NA
-Brain_6k,Oligodendrocyte,CL:0000128,oligodendrocyte,CL:4023154,myelinating glial cell
-Brain_6k,Oligodendrocyte precursor cell,CL:0002453,oligodendrocyte precursor cell,NA,NA
-Brain_6k,Oligodendrocyte-like,NA,NA,NA,NA
-Brain_6k,Other,NA,NA,NA,NA
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term
+Brain_6k,Astrocyte,CL:0000127,astrocyte,NA,NA,NA,NA
+Brain_6k,Astrocyte A,NA,NA,CL:0000127,astrocyte,NA,NA
+Brain_6k,Astrocyte B,NA,NA,CL:0000127,astrocyte,NA,NA
+Brain_6k,Endothelial,CL:2000044,brain microvascular endothelial cell,NA,NA,NA,NA
+Brain_6k,Excitatory neuron,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+Brain_6k,Glial,CL:0000125,glial cell,NA,NA,NA,NA
+Brain_6k,Inhibitory neuron,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+Brain_6k,Inhibitory neuron A,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+Brain_6k,Inhibitory neuron B,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+Brain_6k,Inhibitory neuron C,NA,NA,CL:2000029,central nervous system neuron,NA,NA
+Brain_6k,L2/3 neuron,NA,NA,NA,NA,CL:0000540,neuron
+Brain_6k,L4 neuron,NA,NA,NA,NA,CL:0000540,neuron
+Brain_6k,L6 neuron,NA,NA,NA,NA,CL:0000540,neuron
+Brain_6k,Microglia,CL:0000129,microglial cell,CL:0000125,glial cell,NA,NA
+Brain_6k,Microglia A,NA,NA,CL:0000129,microglial cell,NA,NA
+Brain_6k,Microglia B,NA,NA,CL:0000129,microglial cell,NA,NA
+Brain_6k,Neuronal,CL:2000029,central nervous system neuron,NA,NA,NA,NA
+Brain_6k,Oligodendrocyte,CL:0000128,oligodendrocyte,CL:4023154,myelinating glial cell,NA,NA
+Brain_6k,Oligodendrocyte precursor cell,CL:0002453,oligodendrocyte precursor cell,NA,NA,NA,NA
+Brain_6k,Oligodendrocyte-like,NA,NA,NA,NA,CL:0000128,oligodendrocyte
+Brain_6k,Other,NA,NA,NA,NA,NA,NA

@@ -1,47 +1,47 @@
-profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term
-Kidney_1k,Ascending vasa recta endothelium,NA,NA,NA,NA
-Kidney_1k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage
-Kidney_1k,Connecting tubule,CL:1000768,kidney connecting tubule epithelial cell,NA,NA
-Kidney_1k,Dendritic cell,CL:0000451,dendritic cell,CL:0000145,professional antigen presenting cell
-Kidney_1k,Descending vasa recta endothelium,NA,NA,NA,NA
-Kidney_1k,Distinct proximal tubule,CL:0002306,epithelial cell of proximal tubule,CL:1000494,nephron tubule epithelial cell
-Kidney_1k,Distinct proximal tubule A,NA,NA,CL:0002306,epithelial cell of proximal tubule
-Kidney_1k,Distinct proximal tubule B,NA,NA,CL:0002306,epithelial cell of proximal tubule
-Kidney_1k,Endothelial,CL:0000115,endothelial cell,NA,NA
-Kidney_1k,Epithelial,CL:0002518,kidney epithelial cell,CL:0000066,epithelial cell
-Kidney_1k,Epithelial progenitor,NA,NA,NA,NA
-Kidney_1k,Fibroblast,CL:0000057,fibroblast,CL:0002320,connective tissue cell
-Kidney_1k,Glomerular endothelium,CL:0002188,glomerular endothelial cell,CL:0000115,endothelial cell
-Kidney_1k,Immune,CL:0000738,leukocyte,NA,NA
-Kidney_1k,Intercalated cell,CL:0005010,renal intercalated cell,CL:1000449,epithelial cell of nephron
-Kidney_1k,Lymphoid,CL:0000542,lymphocyte,CL:0000842,mononuclear cell
-Kidney_1k,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte
-Kidney_1k,Mast cell,CL:0000097,mast cell,CL:0000766,myeloid leukocyte
-Kidney_1k,Mesangial cell,CL:0000650,mesangial cell,CL:0000669,pericyte
-Kidney_1k,MNP-a/classical monocyte derived,NA,NA,CL:0000113,mononuclear phagocyte
-Kidney_1k,MNP-b/non-classical monocyte derived,NA,NA,CL:0000113,mononuclear phagocyte
-Kidney_1k,Monocyte lineage,CL:0000576,monocyte,CL:0000113,mononuclear phagocyte
-Kidney_1k,Myeloid,CL:0000766,myeloid leukocyte,CL:0000738,leukocyte
-Kidney_1k,Myofibroblast,CL:0000186,myofibroblast cell,CL:0002320,connective tissue cell
-Kidney_1k,Neutrophil,CL:0000775,neutrophil,CL:0000094,granulocyte
-Kidney_1k,NK cell,CL:0000623,natural killer cell,CL:0001067,group 1 innate lymphoid cell
-Kidney_1k,NKT cell,NA,NA,NA,NA
-Kidney_1k,Pelvic epithelium,NA,NA,CL:0000066,epithelial cell
-Kidney_1k,Peritubular capillary endothelium,CL:1001033,peritubular capillary endothelial cell,CL:1000892,kidney capillary endothelial cell
-Kidney_1k,Peritubular capillary endothelium A,NA,NA,CL:1001033,peritubular capillary endothelial cell
-Kidney_1k,Peritubular capillary endothelium B,NA,NA,CL:1001033,peritubular capillary endothelial cell
-Kidney_1k,Plasmacytoid dendritic cell,CL:0000784,plasmacytoid dendritic cell,CL:0000451,dendritic cell
-Kidney_1k,Podocyte,CL:0000653,podocyte,CL:1000450,epithelial cell of glomerular capsule
-Kidney_1k,Principal cell,CL:0005009,renal principal cell,CL:0002518,kidney epithelial cell
-Kidney_1k,Proliferating proximal tubule,NA,NA,CL:0002306,epithelial cell of proximal tubule
-Kidney_1k,Proximal tubule,NA,NA,CL:0002306,epithelial cell of proximal tubule
-Kidney_1k,Smooth muscle,NA,NA,CL:1000891,kidney arterial blood vessel cell
-Kidney_1k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte
-Kidney_1k,T cell CD4,CL:0000624,CD4-positive, alpha-beta T cell,CL:0000791,mature alpha-beta T cell
-Kidney_1k,T cell CD8,CL:0000625,CD8-positive, alpha-beta T cell,CL:0000791,mature alpha-beta T cell
-Kidney_1k,Thick ascending limb of Loop of Henle,CL:1001106,kidney loop of Henle thick ascending limb epithelial cell,CL:1001016,kidney loop of Henle ascending limb epithelial cell
-Kidney_1k,Tissue,NA,NA,NA,NA
-Kidney_1k,Transitional urothelium,NA,NA,CL:0000731,urothelial cell
-Kidney_1k,Type A intercalated cell,NA,NA,CL:0005010,renal intercalated cell
-Kidney_1k,Type B intercalated cell,NA,NA,CL:0005010,renal intercalated cell
-Kidney_1k,Conventional dendritic cell,CL:0000990,conventional dendritic cell,CL:0000451,dendritic cell
+profiles_name,cell_type,cell_ontology_id,cell_ontology_term,parent_cell_ontology_id,parent_cell_ontology_term,otherwise_closest_cell_ontology_id,otherwise_closest_cell_ontology_term
+Kidney_1k,Ascending vasa recta endothelium,CL:1001131,vasa recta ascending limb cell,CL:1001036,vasa recta cell,NA,NA
+Kidney_1k,B cell,CL:0000236,B cell,CL:0000945,lymphocyte of B lineage,NA,NA
+Kidney_1k,Connecting tubule,CL:1000768,kidney connecting tubule epithelial cell,NA,NA,NA,NA
+Kidney_1k,Dendritic cell,CL:0000451,dendritic cell,CL:0000145,professional antigen presenting cell,NA,NA
+Kidney_1k,Descending vasa recta endothelium,CL:1001285,vasa recta descending limb cell,CL:1001036,vasa recta cell,NA,NA
+Kidney_1k,Distinct proximal tubule,CL:0002306,epithelial cell of proximal tubule,CL:1000494,nephron tubule epithelial cell,NA,NA
+Kidney_1k,Distinct proximal tubule A,NA,NA,CL:0002306,epithelial cell of proximal tubule,NA,NA
+Kidney_1k,Distinct proximal tubule B,NA,NA,CL:0002306,epithelial cell of proximal tubule,NA,NA
+Kidney_1k,Endothelial,CL:0000115,endothelial cell,NA,NA,NA,NA
+Kidney_1k,Epithelial,CL:0002518,kidney epithelial cell,CL:0000066,epithelial cell,NA,NA
+Kidney_1k,Epithelial progenitor,NA,NA,NA,NA,CL:0011026,progenitor cell
+Kidney_1k,Fibroblast,CL:0000057,fibroblast,CL:0002320,connective tissue cell,NA,NA
+Kidney_1k,Glomerular endothelium,CL:0002188,glomerular endothelial cell,CL:0000115,endothelial cell,NA,NA
+Kidney_1k,Immune,CL:0000738,leukocyte,NA,NA,NA,NA
+Kidney_1k,Intercalated cell,CL:0005010,renal intercalated cell,CL:1000449,epithelial cell of nephron,NA,NA
+Kidney_1k,Lymphoid,CL:0000542,lymphocyte,CL:0000842,mononuclear cell,NA,NA
+Kidney_1k,Macrophage,CL:0000235,macrophage,CL:0000766,myeloid leukocyte,NA,NA
+Kidney_1k,Mast cell,CL:0000097,mast cell,CL:0000766,myeloid leukocyte,NA,NA
+Kidney_1k,Mesangial cell,CL:0000650,mesangial cell,CL:0000669,pericyte,NA,NA
+Kidney_1k,MNP-a/classical monocyte derived,NA,NA,CL:0000113,mononuclear phagocyte,NA,NA
+Kidney_1k,MNP-b/non-classical monocyte derived,NA,NA,CL:0000113,mononuclear phagocyte,NA,NA
+Kidney_1k,Monocyte lineage,CL:0000576,monocyte,CL:0000113,mononuclear phagocyte,NA,NA
+Kidney_1k,Myeloid,CL:0000766,myeloid leukocyte,CL:0000738,leukocyte,NA,NA
+Kidney_1k,Myofibroblast,CL:0000186,myofibroblast cell,CL:0002320,connective tissue cell,NA,NA
+Kidney_1k,Neutrophil,CL:0000775,neutrophil,CL:0000094,granulocyte,NA,NA
+Kidney_1k,NK cell,CL:0000623,natural killer cell,CL:0001067,group 1 innate lymphoid cell,NA,NA
+Kidney_1k,NKT cell,CL:0000814,mature NK T cell,CL:0000791,mature alpha-beta T cell,NA,NA
+Kidney_1k,Pelvic epithelium,NA,NA,CL:0000066,epithelial cell,NA,NA
+Kidney_1k,Peritubular capillary endothelium,CL:1001033,peritubular capillary endothelial cell,CL:1000892,kidney capillary endothelial cell,NA,NA
+Kidney_1k,Peritubular capillary endothelium A,NA,NA,CL:1001033,peritubular capillary endothelial cell,NA,NA
+Kidney_1k,Peritubular capillary endothelium B,NA,NA,CL:1001033,peritubular capillary endothelial cell,NA,NA
+Kidney_1k,Plasmacytoid dendritic cell,CL:0000784,plasmacytoid dendritic cell,CL:0000451,dendritic cell,NA,NA
+Kidney_1k,Podocyte,CL:0000653,podocyte,CL:1000450,epithelial cell of glomerular capsule,NA,NA
+Kidney_1k,Principal cell,CL:0005009,renal principal cell,CL:0002518,kidney epithelial cell,NA,NA
+Kidney_1k,Proliferating proximal tubule,NA,NA,CL:0002306,epithelial cell of proximal tubule,NA,NA
+Kidney_1k,Proximal tubule,NA,NA,CL:0002306,epithelial cell of proximal tubule,NA,NA
+Kidney_1k,Smooth muscle,NA,NA,CL:1000891,kidney arterial blood vessel cell,NA,NA
+Kidney_1k,T cell,CL:0000084,T cell,CL:0000542,lymphocyte,NA,NA
+Kidney_1k,T cell CD4,CL:0000624,CD4-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell,NA,NA
+Kidney_1k,T cell CD8,CL:0000625,CD8-positive alpha-beta T cell,CL:0000791,mature alpha-beta T cell,NA,NA
+Kidney_1k,Thick ascending limb of Loop of Henle,CL:1001106,kidney loop of Henle thick ascending limb epithelial cell,CL:1001016,kidney loop of Henle ascending limb epithelial cell,NA,NA
+Kidney_1k,Tissue,NA,NA,NA,NA,NA,NA
+Kidney_1k,Transitional urothelium,NA,NA,CL:0000731,urothelial cell,NA,NA
+Kidney_1k,Type A intercalated cell,NA,NA,CL:0005010,renal intercalated cell,NA,NA
+Kidney_1k,Type B intercalated cell,NA,NA,CL:0005010,renal intercalated cell,NA,NA
+Kidney_1k,Conventional dendritic cell,CL:0000990,conventional dendritic cell,CL:0000451,dendritic cell,NA,NA
