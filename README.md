@@ -24,7 +24,7 @@ Each profile contains the following components:
 
 ### Cell profiles matrix
 
-CSV file of targets by cell types. Each cell type is a unique row. Each target is a unique column. Where multiple experiments were combined, only the intersection of targets was used. The profiles were generated using `InSituType::Estep()`, which calculates the negative probe-subtracted means of expression by cell type (with lower bound of 0).
+CSV file of targets by cell types. Each cell type is a unique row. Each target is a unique column. Where multiple experiments were combined, only the intersection of targets was used. The profiles were generated using `InSituType::Estep()`, which removes background readout (negative probes) when calculating the net expression profile for each cell type. For details, refer to the [InSituType manual](https://github.com/Nanostring-Biostats/InSituType).
 
 ![](./imgs/cell_profiles.png)
 
